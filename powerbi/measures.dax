@@ -1,0 +1,49 @@
+// DAX measures for the consulting-practice report.
+// Import the CSVs from output/marts, set the relationships in report_spec.md, then paste these into a "_Measures" table.
+// After building each one, compare it with the matching vw_* table or the SQL query in sql/03_analysis_queries.sql.
+
+// ---------- Delivery ----------
+Total Hours       = SUM ( fact_timesheet[hours] )
+Billable Hours    = SUM ( fact_timesheet[billable_hours] )
+Standard Value    = SUM ( fact_timesheet[standard_value] )
+Delivery Cost     = SUM ( fact_timesheet[cost_value] )
+
+Capacity Hours    = SUM ( vw_utilization_monthly[capacity_hours] )
+Utilization %     = DIVIDE ( SUM ( vw_utilization_monthly[billable_hours] ), [Capacity Hours] )
+
+Budget Burn %     = DIVIDE ( SUM ( vw_project_profitability[hours] ), SUM ( vw_project_profitability[budget_hours] ) )
+Projects Over Budget =
+    COUNTROWS ( FILTER ( vw_project_profitability, vw_project_profitability[budget_burn_pct] > 100 ) )
+
+// ---------- Billing and profitability ----------
+Invoiced          = SUM ( fact_invoice[amount] )
+Collected         = SUM ( fact_payment[amount] )
+Delivery Margin   = [Invoiced] - [Delivery Cost]
+Delivery Margin % = DIVIDE ( [Delivery Margin], [Invoiced] )
+Realization %     = DIVIDE ( [Invoiced], [Standard Value] )
+
+Invoiced PY       = CALCULATE ( [Invoiced], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+Invoiced YoY %    = DIVIDE ( [Invoiced] - [Invoiced PY], [Invoiced PY] )
+Invoiced YTD (FY) = TOTALYTD ( [Invoiced], dim_date[date], "31/03" )   // Indian financial year ends 31 March
+
+// ---------- Receivables (read from the ageing view, which is already as-of 31 Oct 2026) ----------
+Outstanding AR    = SUM ( vw_ar_ageing[outstanding] )
+Overdue AR        = CALCULATE ( [Outstanding AR], vw_ar_ageing[days_past_due] > 0 )
+Over 90 Days AR   = CALCULATE ( [Outstanding AR], vw_ar_ageing[days_past_due] > 90 )
+Overdue %         = DIVIDE ( [Overdue AR], [Outstanding AR] )
+
+DSO (days) =
+VAR Last90Billing =
+    CALCULATE (
+        [Invoiced],
+        DATESINPERIOD ( dim_date[date], DATE ( 2026, 10, 31 ), -90, DAY )
+    )
+RETURN DIVIDE ( [Outstanding AR], DIVIDE ( Last90Billing, 90 ) )
+
+// ---------- Work in progress ----------
+Unbilled WIP      = SUM ( vw_wip_unbilled[wip_value] )
+
+// ---------- Dynamic titles ----------
+Margin Title =
+    "Delivery margin " & FORMAT ( [Delivery Margin %], "0.0%" )
+        & " on " & FORMAT ( [Invoiced] / 10000000, "0.00" ) & " Cr invoiced"

@@ -1,0 +1,31 @@
+client_key,client_id,client_name,industry,city,payment_terms_days,tier
+1,C001,Orion Steel,Manufacturing,Kolkata,60,Strategic
+2,C002,BlueLeaf Pharma,Healthcare,Pune,45,Key
+3,C003,Sapphire Retail,Retail,Pune,30,Standard
+4,C004,Nimbus Cloud,Technology,Ahmedabad,30,Key
+5,C005,Kestrel Logistics,Logistics,Delhi,30,Key
+6,C006,Lumen Hospitals,Healthcare,Mumbai,45,Key
+7,C007,Vertex Auto,Manufacturing,Mumbai,60,Strategic
+8,C008,Pioneer Foods,Consumer Goods,Hyderabad,45,Standard
+9,C009,Zenith Power,Utilities,Delhi,30,Strategic
+10,C010,Harbor Textiles,Manufacturing,Kolkata,45,Key
+11,C011,Cedar Bank,Banking,Chennai,30,Strategic
+12,C012,Atlas Insurance,Insurance,Delhi,60,Standard
+13,C013,Maple Telecom,Telecom,Chennai,30,Standard
+14,C014,Quartz Mining,Mining,Hyderabad,60,Strategic
+15,C015,Helix Biotech,Healthcare,Delhi,60,Key
+16,C016,Summit Realty,Real Estate,Pune,45,Key
+17,C017,Falcon Airways,Aviation,Pune,60,Key
+18,C018,Indigo Fintech,Banking,Delhi,30,Standard
+19,C019,Coral Hotels,Hospitality,Mumbai,45,Strategic
+20,C020,Granite Cement,Manufacturing,Pune,60,Key
+21,C021,Aurora Solar,Utilities,Delhi,45,Standard
+22,C022,Nova Pharma,Healthcare,Delhi,60,Standard
+23,C023,Tidal Shipping,Unknown,Hyderabad,45,Strategic
+24,C024,Ember Energy,Utilities,Bengaluru,60,Key
+25,C025,Willow Education,Education,Bengaluru,60,Key
+26,C026,Cobalt Electronics,Technology,Delhi,60,Standard
+27,C027,Saffron Foods,Consumer Goods,Chennai,60,Key
+28,C028,Pinnacle Finance,Banking,Bengaluru,45,Key
+29,C029,Terra Agro,Agriculture,Bengaluru,60,Key
+30,C030,Lotus Healthcare,Unknown,Bengaluru,45,Key

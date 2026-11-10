@@ -1,0 +1,81 @@
+project_id,client_id,project_name,practice,billing_type,start_date,end_date,budget_hours
+P001,C013,Maple Telecom ERP Migration,Risk Advisory,Fixed Fee,2025-04-19,2025-07-25,548
+P002,C022,Nova Pharma Tax Automation,Finance Transformation,Fixed Fee,2025-12-26,2027-02-10,4201
+P003,C011,Cedar Bank Data Platform,Finance Transformation,Time & Materials,2025-08-03,2025-12-16,1220
+P004,C026,Cobalt Electronics Audit Analytics,Tax Technology,Time & Materials,2025-03-31,16/03/2026,2837
+P005,C002,BlueLeaf Pharma Risk Assessment,Tax Technology,Time & Materials,2025-04-25,15/02/2026,3131
+P006,C027,Saffron Foods Tax Automation,Data & Analytics,Fixed Fee,2026-01-28,2026-12-22,4016
+P007,C006,Lumen Hospitals Tax Automation,Risk Advisory,Fixed Fee,2026-05-28,2027-04-21,1333
+P008,C029,Terra Agro Audit Analytics,Finance Transformation,Time & Materials,25/03/2026,2026-07-08,554
+P009,C015,Helix Biotech Risk Assessment,Finance Transformation,Fixed Fee,2026-04-22,14/09/2026,900
+P010,C023,Tidal Shipping Reporting Revamp,Tax Technology,Time & Materials,26/01/2025,2025-09-09,2969
+P011,C006,Lumen Hospitals Tax Automation,Data & Analytics,Fixed Fee,2025-01-24,2025-08-13,1099
+P012,C005,Kestrel Logistics Risk Assessment,Finance Transformation,Time & Materials,2025-07-27,2026-01-22,1153
+P013,C029,Terra Agro ERP Migration,Data & Analytics,Time & Materials,2025-10-28,2026-11-18,2818
+P014,C010,Harbor Textiles Risk Assessment,Finance Transformation,Time & Materials,2026-05-30,19/03/2027,1491
+P015,C026,Cobalt Electronics Tax Automation,Data & Analytics,Time & Materials,06/01/2026,2026-12-29,2148
+P016,C022,Nova Pharma Risk Assessment,Risk Advisory,Time & Materials,2026-03-24,19/08/2026,1168
+P017,C027,Saffron Foods Risk Assessment,Tax Technology,Fixed Fee,2025-02-22,2026-04-17,3310
+P018,C028,Pinnacle Finance Audit Analytics,Finance Transformation,Fixed Fee,22/07/2026,2026-10-29,703
+P019,C015,Helix Biotech Risk Assessment,Risk Advisory,Fixed Fee,2026-06-09,2026-09-12,778
+P020,C020,Granite Cement Audit Analytics,Finance Transformation,Time & Materials,2026-07-07,2027-04-02,1119
+P021,C001,Orion Steel Controls Review,Risk Advisory,Fixed Fee,2025-03-20,2025-10-07,1096
+P022,C009,Zenith Power Controls Review,Data & Analytics,Time & Materials,2025-08-27,2026-01-11,1096
+P023,C015,Helix Biotech Audit Analytics,Finance Transformation,Time & Materials,2026-02-09,2026-06-30,933
+P024,C001,Orion Steel Data Platform,Data & Analytics,Fixed Fee,2026-06-22,2027-06-27,650
+P025,C016,Summit Realty ERP Migration,Data & Analytics,Time & Materials,2026-07-03,26/03/2027,531
+P026,C026,Cobalt Electronics Tax Automation,Finance Transformation,Time & Materials,2025-07-29,2025-11-27,1025
+P027,C004,Nimbus Cloud Risk Assessment,Finance Transformation,Fixed Fee,2025-08-23,2026-07-31,1710
+P028,C029,Terra Agro Data Platform,Risk Advisory,Fixed Fee,2026-05-02,2026-12-16,1701
+P029,C019,Coral Hotels Data Platform,Tax Technology,Fixed Fee,2025-05-15,2025-09-21,634
+P030,C013,Maple Telecom Reporting Revamp,Finance Transformation,Time & Materials,2025-06-30,2026-06-06,3890
+P031,C028,Pinnacle Finance ERP Migration,Tax Technology,Fixed Fee,2025-02-06,2025-10-01,1605
+P032,C022,Nova Pharma Reporting Revamp,Risk Advisory,Time & Materials,2025-01-07,2025-05-29,1528
+P033,C007,Vertex Auto Data Platform,Data & Analytics,Time & Materials,2026-08-06,2027-04-06,351
+P034,C003,Sapphire Retail Tax Automation,Risk Advisory,Time & Materials,2025-06-14,21/07/2026,1289
+P035,C003,Sapphire Retail Tax Automation,Finance Transformation,Time & Materials,28/02/2025,2026-02-16,1406
+P036,C027,Saffron Foods Risk Assessment,Data & Analytics,Fixed Fee,2025-05-11,21/03/2026,1421
+P037,C029,Terra Agro ERP Migration,Risk Advisory,Fixed Fee,2026-06-24,2026-11-23,785
+P038,C011,Cedar Bank Reporting Revamp,Data & Analytics,Time & Materials,2025-08-23,2026-04-22,1081
+P039,C025,Willow Education Reporting Revamp,Risk Advisory,Time & Materials,2026-05-14,2026-08-31,1125
+P040,C009,Zenith Power Audit Analytics,Risk Advisory,Fixed Fee,2025-07-25,2026-05-14,2008
+P041,C025,Willow Education Reporting Revamp,Risk Advisory,Time & Materials,03/06/2025,2025-10-02,628
+P042,C010,Harbor Textiles Audit Analytics,Tax Technology,Fixed Fee,2026-03-13,2026-12-08,1589
+P043,C008,Pioneer Foods ERP Migration,Data & Analytics,Time & Materials,2025-11-25,2026-08-13,1545
+P044,C007,Vertex Auto Tax Automation,Finance Transformation,Time & Materials,2026-06-26,30/03/2027,881
+P045,C020,Granite Cement Controls Review,Risk Advisory,Time & Materials,09/09/2025,2026-01-23,1000
+P046,C021,Aurora Solar Reporting Revamp,Data & Analytics,Time & Materials,12/01/2026,2026-06-08,1075
+P047,C006,Lumen Hospitals Controls Review,Finance Transformation,Fixed Fee,2025-10-25,2026-10-04,1401
+P048,C017,Falcon Airways Risk Assessment,Risk Advisory,Time & Materials,2025-11-01,2026-05-11,1166
+P049,C014,Quartz Mining Audit Analytics,Risk Advisory,Time & Materials,2026-06-12,2026-11-07,605
+P050,C027,Saffron Foods Data Platform,Finance Transformation,Time & Materials,2026-08-16,2026-12-21,241
+P051,C006,Lumen Hospitals Controls Review,Tax Technology,Time & Materials,2025-09-29,2026-09-12,1812
+P052,C019,Coral Hotels Tax Automation,Risk Advisory,Fixed Fee,2025-10-17,2026-12-04,2270
+P053,C019,Coral Hotels Tax Automation,Data & Analytics,Time & Materials,2026-03-19,2026-10-23,1405
+P054,C010,Harbor Textiles ERP Migration,Data & Analytics,Fixed Fee,2026-07-26,2027-05-07,551
+P055,C027,Saffron Foods ERP Migration,Finance Transformation,Time & Materials,16/06/2025,05/12/2025,395
+P056,C006,Lumen Hospitals Risk Assessment,Risk Advisory,Time & Materials,2025-01-05,06/12/2025,1819
+P057,C028,Pinnacle Finance Risk Assessment,Finance Transformation,Fixed Fee,2026-07-08,2027-04-03,394
+P058,C028,Pinnacle Finance Reporting Revamp,Finance Transformation,Time & Materials,2026-06-22,2027-04-13,556
+P059,C011,Cedar Bank Tax Automation,Risk Advisory,Fixed Fee,2025-12-20,2026-11-25,2031
+P060,C019,Coral Hotels Data Platform,Tax Technology,Fixed Fee,2026-08-15,2027-02-01,399
+P061,C012,Atlas Insurance Controls Review,Data & Analytics,Fixed Fee,2025-02-18,2025-11-15,1215
+P062,C019,Coral Hotels Tax Automation,Risk Advisory,Fixed Fee,2025-11-19,2026-10-12,1309
+P063,C022,Nova Pharma ERP Migration,Finance Transformation,Time & Materials,2025-12-09,2026-04-02,404
+P064,C028,Pinnacle Finance Audit Analytics,Tax Technology,Time & Materials,27/07/2026,2026-10-25,330
+P065,C011,Cedar Bank Controls Review,Data & Analytics,Time & Materials,2026-05-25,2026-09-28,626
+P066,C011,Cedar Bank Audit Analytics,Data & Analytics,Time & Materials,2025-07-13,2025-10-30,560
+P067,C024,Ember Energy Data Platform,Risk Advisory,Time & Materials,2026-03-29,2027-01-18,1200
+P068,C012,Atlas Insurance Data Platform,Tax Technology,Fixed Fee,2025-07-10,2026-07-26,2620
+P069,C003,Sapphire Retail Data Platform,Risk Advisory,Time & Materials,2026-03-16,2026-10-18,1231
+P070,C013,Maple Telecom ERP Migration,Tax Technology,Fixed Fee,2025-06-10,2026-05-01,1272
+P071,C015,Helix Biotech Audit Analytics,Tax Technology,Fixed Fee,2025-06-25,04/10/2025,574
+P072,C017,Falcon Airways Audit Analytics,Risk Advisory,Fixed Fee,2025-11-25,17/12/2026,1245
+P073,C005,Kestrel Logistics Tax Automation,Data & Analytics,Fixed Fee,2026-06-02,2027-04-22,1041
+P074,C001,Orion Steel Data Platform,Finance Transformation,Fixed Fee,13/11/2025,2026-06-21,842
+P075,C028,Pinnacle Finance Risk Assessment,Data & Analytics,Fixed Fee,2025-03-22,28/04/2026,2300
+P076,C014,Quartz Mining Tax Automation,Finance Transformation,Fixed Fee,2025-05-25,2025-10-14,830
+P077,C006,Lumen Hospitals Reporting Revamp,Risk Advisory,Fixed Fee,2026-04-10,2027-03-05,1144
+P078,C006,Lumen Hospitals Controls Review,Finance Transformation,Fixed Fee,2025-09-06,2026-05-18,1062
+P079,C017,Falcon Airways ERP Migration,Tax Technology,Time & Materials,15/10/2025,2026-06-30,1623
+P080,C015,Helix Biotech Tax Automation,Tax Technology,Time & Materials,2025-10-25,2026-06-09,1406

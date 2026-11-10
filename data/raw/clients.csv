@@ -1,0 +1,33 @@
+client_id,client_name,industry,city,payment_terms_days,tier
+C001,Orion Steel,Manufacturing,Kolkata,60,Strategic
+C002,BlueLeaf Pharma,Healthcare,Pune,45,Key
+C003,Sapphire Retail,Retail,Pune,30,Standard
+C004,Nimbus Cloud,Technology,Ahmedabad,30,Key
+C005,Kestrel Logistics,Logistics,Delhi,30,Key
+C006,Lumen Hospitals,Healthcare,Mumbai,45,Key
+C007,Vertex Auto,Manufacturing,Mumbai,60,Strategic
+C008,Pioneer Foods,Consumer Goods,Hyderabad,45,Standard
+C009,Zenith Power,Utilities,Delhi,30,Strategic
+C010,Harbor Textiles,MANUFACTURING,Kolkata,45,Key
+C011,Cedar Bank,BANKING,Chennai,30,Strategic
+C012,Atlas Insurance,Insurance,Delhi,60,Standard
+C013,Maple Telecom,TELECOM,Chennai,30,Standard
+C014,Quartz Mining,Mining,Hyderabad,60,Strategic
+C015,Helix Biotech,Healthcare,Delhi,60,Key
+C016,Summit Realty,Real Estate,Pune,45,Key
+C017,Falcon Airways,Aviation,Pune,60,Key
+C018,Indigo Fintech,Banking,Delhi,30,Standard
+C019,Coral Hotels,hospitality,Mumbai,45,Strategic
+C020,Granite Cement,MANUFACTURING,Pune,60,Key
+C021,Aurora Solar,Utilities,Delhi,45,Standard
+C022,Nova Pharma,Healthcare,Delhi,60,Standard
+C023,Tidal Shipping,,Hyderabad,45,Strategic
+C024,Ember Energy,Utilities,Bengaluru,60,Key
+C025,Willow Education,Education,Bengaluru,60,Key
+C026,Cobalt Electronics,Technology,Delhi,60,Standard
+C027,Saffron Foods,Consumer Goods,Chennai,60,Key
+C028,Pinnacle Finance,Banking,Bengaluru,45,Key
+C029,Terra Agro,Agriculture,Bengaluru,60,Key
+C030,Lotus Healthcare,,Bengaluru,45,Key
+C004,Nimbus Cloud ,Technology,Ahmedabad,30,Key
+C020,Granite Cement ,MANUFACTURING,Pune,60,Key

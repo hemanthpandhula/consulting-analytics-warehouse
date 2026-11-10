@@ -1,0 +1,61 @@
+employee_id,full_name,practice,location,hire_date,email
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2024-11-01,sneha.chowdary.1@meridian-advisory.example
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026-01-28,ishita.sharma.2@meridian-advisory.example
+E003,Teja Sharma,Finance Transformation,Mumbai,2025-04-06,teja.sharma.3@meridian-advisory.example
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025-05-20,ishita.chowdary.4@meridian-advisory.example
+E005,Vamsi Patel,Tax Technology,Hyderabad,2024-01-12,vamsi.patel.5@meridian-advisory.example
+E006,Divya Sharma,Tax Technology,Hyderabad,2025-07-28,divya.sharma.6@meridian-advisory.example
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025-01-03,divya.chowdary.7@meridian-advisory.example
+E008,Arjun Mehta,Tax Technology,Bengaluru,18/03/2025,arjun.mehta.8@meridian-advisory.example
+E009,Neha Gupta,Data & Analytics,Bengaluru,2025-11-16,neha.gupta.9@meridian-advisory.example
+E010,Rohan Naidu,Tax Technology,Mumbai,2025-10-06,rohan.naidu.10@meridian-advisory.example
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2023-01-08,neha.iyer.11@meridian-advisory.example
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2024-10-16,vihaan.verma.12@meridian-advisory.example
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2025-08-08,aarav.iyer.13@meridian-advisory.example
+E014,Aarav Singh,Tax Technology,Hyderabad,2024-04-13,aarav.singh.14@meridian-advisory.example
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2023-02-18,rahul.iyer.15@meridian-advisory.example
+E016,Ananya Singh,Data & Analytics,Mumbai,2024-04-28,ananya.singh.16@meridian-advisory.example
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2024-05-01,pooja.chowdary.17@meridian-advisory.example
+E018,Neha Nair,Data & Analytics,Mumbai,2024-12-19,neha.nair.18@meridian-advisory.example
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2023-11-13,varun.reddy.19@meridian-advisory.example
+E020,Varun Das,Data & Analytics,Mumbai,26/06/2025,varun.das.20@meridian-advisory.example
+E021,Manoj Verma,Tax Technology,Mumbai,2023-04-07,manoj.verma.21@meridian-advisory.example
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2024-05-19,pooja.kumar.22@meridian-advisory.example
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2023-01-02,kavya.mehta.23@meridian-advisory.example
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025-03-02,harsha.joshi.24@meridian-advisory.example
+E025,Diya Mehta,Risk Advisory,Hyderabad,2024-01-19,diya.mehta.25@meridian-advisory.example
+E026,Diya Mehta,Data & Analytics,Bengaluru,2023-04-30,diya.mehta.26@meridian-advisory.example
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2025-12-13,vihaan.patel.27@meridian-advisory.example
+E028,Arjun Das,Tax Technology,Hyderabad,2023-08-29,arjun.das.28@meridian-advisory.example
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2024-04-07,divya.kumar.29@meridian-advisory.example
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2023-12-18,manoj.sharma.30@meridian-advisory.example
+E031,Swathi Mehta,Finance Transformation,Mumbai,2023-07-13,swathi.mehta.31@meridian-advisory.example
+E032,Aarav Mehta,Tax Technology,Mumbai,2025-03-03,aarav.mehta.32@meridian-advisory.example
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026-01-14,sneha.chowdary.33@meridian-advisory.example
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025-04-03,harsha.mehta.34@meridian-advisory.example
+E035,Naveen Singh,Tax Technology,Mumbai,2025-11-27,naveen.singh.35@meridian-advisory.example
+E036,Divya Patel,Tax Technology,Mumbai,2025-11-06,divya.patel.36@meridian-advisory.example
+E037,Divya Joshi,Risk Advisory,Hyderabad,2024-08-23,divya.joshi.37@meridian-advisory.example
+E038,Teja Naidu,Tax Technology,Delhi NCR,2024-08-03,teja.naidu.38@meridian-advisory.example
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,09/01/2026,kavya.reddy.39@meridian-advisory.example
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026-02-08,kavya.mehta.40@meridian-advisory.example
+E041,Suresh Gupta,Tax Technology,Bengaluru,2023-09-16,suresh.gupta.41@meridian-advisory.example
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025-03-02,aarav.iyer.42@meridian-advisory.example
+E043,Varun Joshi,Tax Technology,Delhi NCR,2025-12-26,varun.joshi.43@meridian-advisory.example
+E044,Rahul Rao,Data & Analytics,Bengaluru,2025-11-04,rahul.rao.44@meridian-advisory.example
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2023-11-06,shreya.joshi.45@meridian-advisory.example
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2024-04-25,shreya.singh.46@meridian-advisory.example
+E047,Shreya Verma,Data & Analytics,Bengaluru,2023-07-18,shreya.verma.47@meridian-advisory.example
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025-03-12,swathi.sharma.48@meridian-advisory.example
+E049,Arjun Patel,Data & Analytics,Mumbai,2024-03-02,arjun.patel.49@meridian-advisory.example
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2025-11-09,lakshmi.reddy.50@meridian-advisory.example
+E051,Ishita Singh,Data & Analytics,Hyderabad,2024-12-12,ishita.singh.51@meridian-advisory.example
+E052,Varun Joshi,Finance Transformation,Hyderabad,2023-12-24,varun.joshi.52@meridian-advisory.example
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025-05-30,varun.joshi.53@meridian-advisory.example
+E054,Diya Nair,Data & Analytics,Mumbai,2026-01-08,diya.nair.54@meridian-advisory.example
+E055,Priya Mehta,Finance Transformation,Mumbai,15/07/2025,priya.mehta.55@meridian-advisory.example
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2024-04-16,karthik.reddy.56@meridian-advisory.example
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026-03-24,rohan.sharma.57@meridian-advisory.example
+E058,Anjali Reddy,Risk Advisory,Mumbai,2025-08-25,anjali.reddy.58@meridian-advisory.example
+E059,Vamsi Rao,Risk Advisory,Mumbai,22/11/2024,vamsi.rao.59@meridian-advisory.example
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2024-03-19,anjali.naidu.60@meridian-advisory.example

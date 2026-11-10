@@ -1,0 +1,81 @@
+project_id,project_name,client_name,practice,billing_type,hours,budget_hours,budget_burn_pct,standard_value,invoiced,collected,cost_value,margin,margin_pct,realization_pct
+P001,Maple Telecom ERP Migration,Maple Telecom,Risk Advisory,Fixed Fee,546.5,548.0,99.7,1653900.0,1633738.0,1633738.0,659575.0,974163.0,59.6,98.8
+P002,Nova Pharma Tax Automation,Nova Pharma,Finance Transformation,Fixed Fee,3329.0,4201.0,79.2,16064300.0,13480245.0,7005883.0,6331525.0,7148720.0,53.0,83.9
+P003,Cedar Bank Data Platform,Cedar Bank,Finance Transformation,Time & Materials,1170.0,1220.0,95.9,3872700.0,3610335.0,3610335.0,1543275.0,2067060.0,57.3,93.2
+P004,Cobalt Electronics Audit Analytics,Cobalt Electronics,Tax Technology,Time & Materials,2234.5,2837.0,78.8,11377600.0,10875665.0,10875665.0,4510850.0,6364815.0,58.5,95.6
+P005,BlueLeaf Pharma Risk Assessment,BlueLeaf Pharma,Tax Technology,Time & Materials,2791.5,3131.0,89.2,9059400.0,8587697.0,8587697.0,3597025.0,4990672.0,58.1,94.8
+P006,Saffron Foods Tax Automation,Saffron Foods,Data & Analytics,Fixed Fee,3025.0,4016.0,75.3,9323800.0,7826745.0,3411047.0,3732550.0,4094195.0,52.3,83.9
+P007,Lumen Hospitals Tax Automation,Lumen Hospitals,Risk Advisory,Fixed Fee,1462.0,1333.0,109.7,5142100.0,4031713.0,2157403.0,2001000.0,2030713.0,50.4,78.4
+P008,Terra Agro Audit Analytics,Terra Agro,Finance Transformation,Time & Materials,427.0,554.0,77.1,1480000.0,1438492.0,1438492.0,621125.0,817367.0,56.8,97.2
+P009,Helix Biotech Risk Assessment,Helix Biotech,Finance Transformation,Fixed Fee,790.0,900.0,87.8,2364200.0,2364968.0,1721739.0,932150.0,1432818.0,60.6,100.0
+P010,Tidal Shipping Reporting Revamp,Tidal Shipping,Tax Technology,Time & Materials,2258.0,2969.0,76.1,6277100.0,5724653.0,5724653.0,2432825.0,3291828.0,57.5,91.2
+P011,Lumen Hospitals Tax Automation,Lumen Hospitals,Data & Analytics,Fixed Fee,1082.5,1099.0,98.5,3004400.0,2806335.0,2806335.0,1207925.0,1598410.0,57.0,93.4
+P012,Kestrel Logistics Risk Assessment,Kestrel Logistics,Finance Transformation,Time & Materials,1017.5,1153.0,88.2,3430800.0,3378797.0,3378797.0,1319325.0,2059472.0,61.0,98.5
+P013,Terra Agro ERP Migration,Terra Agro,Data & Analytics,Time & Materials,2480.5,2818.0,88.0,6011300.0,5161777.0,4335440.0,2348575.0,2813202.0,54.5,85.9
+P014,Harbor Textiles Risk Assessment,Harbor Textiles,Finance Transformation,Time & Materials,1341.0,1491.0,89.9,5097200.0,3618511.0,1965118.0,2004700.0,1613811.0,44.6,71.0
+P015,Cobalt Electronics Tax Automation,Cobalt Electronics,Data & Analytics,Time & Materials,1815.5,2148.0,84.5,7493300.0,6722604.0,4662625.0,2928575.0,3794029.0,56.4,89.7
+P016,Nova Pharma Risk Assessment,Nova Pharma,Risk Advisory,Time & Materials,1245.0,1168.0,106.6,6190600.0,6094235.0,1441494.0,2444000.0,3650235.0,59.9,98.4
+P017,Saffron Foods Risk Assessment,Saffron Foods,Tax Technology,Fixed Fee,2500.0,3310.0,75.5,5968000.0,5872471.0,5872471.0,2341950.0,3530521.0,60.1,98.4
+P018,Pinnacle Finance Audit Analytics,Pinnacle Finance,Finance Transformation,Fixed Fee,766.0,703.0,109.0,1843800.0,1260843.0,598322.0,761125.0,499718.0,39.6,68.4
+P019,Helix Biotech Risk Assessment,Helix Biotech,Risk Advisory,Fixed Fee,777.5,778.0,99.9,2321300.0,2297621.0,1413039.0,907750.0,1389871.0,60.5,99.0
+P020,Granite Cement Audit Analytics,Granite Cement,Finance Transformation,Time & Materials,1225.5,1119.0,109.5,3320700.0,2550033.0,666513.0,1362925.0,1187108.0,46.6,76.8
+P021,Orion Steel Controls Review,Orion Steel,Risk Advisory,Fixed Fee,871.5,1096.0,79.5,4345400.0,3902374.0,3902374.0,1738225.0,2164149.0,55.5,89.8
+P022,Zenith Power Controls Review,Zenith Power,Data & Analytics,Time & Materials,890.0,1096.0,81.2,2522000.0,2532149.0,2532149.0,1028375.0,1503774.0,59.4,100.4
+P023,Helix Biotech Audit Analytics,Helix Biotech,Finance Transformation,Time & Materials,946.5,933.0,101.4,4224100.0,3969450.0,3969450.0,1650025.0,2319425.0,58.4,94.0
+P024,Orion Steel Data Platform,Orion Steel,Data & Analytics,Fixed Fee,599.0,650.0,92.2,2056000.0,1561963.0,660103.0,838000.0,723963.0,46.3,76.0
+P025,Summit Realty ERP Migration,Summit Realty,Data & Analytics,Time & Materials,540.5,531.0,101.8,1635100.0,1120005.0,698563.0,653125.0,466880.0,41.7,68.5
+P026,Cobalt Electronics Tax Automation,Cobalt Electronics,Finance Transformation,Time & Materials,819.0,1025.0,79.9,3031800.0,3006874.0,3006874.0,1175050.0,1831824.0,60.9,99.2
+P027,Nimbus Cloud Risk Assessment,Nimbus Cloud,Finance Transformation,Fixed Fee,1419.0,1710.0,83.0,5359200.0,5190853.0,4720023.0,2055000.0,3135853.0,60.4,96.9
+P028,Terra Agro Data Platform,Terra Agro,Risk Advisory,Fixed Fee,1838.0,1701.0,108.1,5303200.0,4285972.0,2732198.0,2139725.0,2146247.0,50.1,80.8
+P029,Coral Hotels Data Platform,Coral Hotels,Tax Technology,Fixed Fee,625.5,634.0,98.7,1327900.0,1258353.0,1258353.0,526725.0,731628.0,58.1,94.8
+P030,Maple Telecom Reporting Revamp,Maple Telecom,Finance Transformation,Time & Materials,3094.5,3890.0,79.6,11302800.0,11145314.0,10218900.0,4409650.0,6735664.0,60.4,98.6
+P031,Pinnacle Finance ERP Migration,Pinnacle Finance,Tax Technology,Fixed Fee,1517.5,1605.0,94.5,6048400.0,5677888.0,5677888.0,2341550.0,3336338.0,58.8,93.9
+P032,Nova Pharma Reporting Revamp,Nova Pharma,Risk Advisory,Time & Materials,1369.5,1528.0,89.6,3631400.0,3383924.0,3383924.0,1440500.0,1943424.0,57.4,93.2
+P033,Vertex Auto Data Platform,Vertex Auto,Data & Analytics,Time & Materials,264.0,351.0,75.2,695800.0,468481.0,0.0,284225.0,184256.0,39.3,67.3
+P034,Sapphire Retail Tax Automation,Sapphire Retail,Risk Advisory,Time & Materials,1449.5,1289.0,112.5,5764600.0,5493166.0,5493166.0,2273050.0,3220116.0,58.6,95.3
+P035,Sapphire Retail Tax Automation,Sapphire Retail,Finance Transformation,Time & Materials,1270.0,1406.0,90.3,3529200.0,3205655.0,3205655.0,1404725.0,1800930.0,56.2,90.8
+P036,Saffron Foods Risk Assessment,Saffron Foods,Data & Analytics,Fixed Fee,1448.5,1421.0,101.9,4273700.0,4049567.0,3735041.0,1679875.0,2369692.0,58.5,94.8
+P037,Terra Agro ERP Migration,Terra Agro,Risk Advisory,Fixed Fee,757.5,785.0,96.5,2966700.0,2270016.0,787509.0,1178875.0,1091141.0,48.1,76.5
+P038,Cedar Bank Reporting Revamp,Cedar Bank,Data & Analytics,Time & Materials,1201.5,1081.0,111.1,3106500.0,2991626.0,2608882.0,1254925.0,1736701.0,58.1,96.3
+P039,Willow Education Reporting Revamp,Willow Education,Risk Advisory,Time & Materials,935.0,1125.0,83.1,2555700.0,2409753.0,1838426.0,983200.0,1426553.0,59.2,94.3
+P040,Zenith Power Audit Analytics,Zenith Power,Risk Advisory,Fixed Fee,2048.0,2008.0,102.0,6944700.0,6499091.0,6499091.0,2707225.0,3791866.0,58.3,93.6
+P041,Willow Education Reporting Revamp,Willow Education,Risk Advisory,Time & Materials,656.5,628.0,104.5,2541700.0,2362574.0,2362574.0,999700.0,1362874.0,57.7,93.0
+P042,Harbor Textiles Audit Analytics,Harbor Textiles,Tax Technology,Fixed Fee,1408.0,1589.0,88.6,4650100.0,3752914.0,2214801.0,1812525.0,1940389.0,51.7,80.7
+P043,Pioneer Foods ERP Migration,Pioneer Foods,Data & Analytics,Time & Materials,1259.5,1545.0,81.5,5743700.0,5675684.0,5470945.0,2244275.0,3431409.0,60.5,98.8
+P044,Vertex Auto Tax Automation,Vertex Auto,Finance Transformation,Time & Materials,691.0,881.0,78.4,2537100.0,1667069.0,552741.0,1014850.0,652219.0,39.1,65.7
+P045,Granite Cement Controls Review,Granite Cement,Risk Advisory,Time & Materials,966.0,1000.0,96.6,3156400.0,2949302.0,2949302.0,1258925.0,1690377.0,57.3,93.4
+P046,Aurora Solar Reporting Revamp,Aurora Solar,Data & Analytics,Time & Materials,1082.5,1075.0,100.7,3797900.0,3491644.0,3491644.0,1414125.0,2077519.0,59.5,91.9
+P047,Lumen Hospitals Controls Review,Lumen Hospitals,Finance Transformation,Fixed Fee,1352.0,1401.0,96.5,4131100.0,3601200.0,2752121.0,1612450.0,1988750.0,55.2,87.2
+P048,Falcon Airways Risk Assessment,Falcon Airways,Risk Advisory,Time & Materials,1051.5,1166.0,90.2,4018900.0,3844547.0,3844547.0,1561825.0,2282722.0,59.4,95.7
+P049,Quartz Mining Audit Analytics,Quartz Mining,Risk Advisory,Time & Materials,695.0,605.0,114.9,1744800.0,1267885.0,641901.0,709325.0,558560.0,44.1,72.7
+P050,Saffron Foods Data Platform,Saffron Foods,Finance Transformation,Time & Materials,245.5,241.0,101.9,1113400.0,476945.0,0.0,427550.0,49395.0,10.4,42.8
+P051,Lumen Hospitals Controls Review,Lumen Hospitals,Tax Technology,Time & Materials,1984.0,1812.0,109.5,7528500.0,7077814.0,5303533.0,2973850.0,4103964.0,58.0,94.0
+P052,Coral Hotels Tax Automation,Coral Hotels,Risk Advisory,Fixed Fee,1965.0,2270.0,86.6,4632300.0,4009243.0,3248430.0,1862475.0,2146768.0,53.5,86.5
+P053,Coral Hotels Tax Automation,Coral Hotels,Data & Analytics,Time & Materials,1068.0,1405.0,76.0,2416900.0,2059110.0,1195079.0,972150.0,1086960.0,52.8,85.2
+P054,Harbor Textiles ERP Migration,Harbor Textiles,Data & Analytics,Fixed Fee,629.5,551.0,114.2,1841600.0,1186099.0,88799.0,745975.0,440124.0,37.1,64.4
+P055,Saffron Foods ERP Migration,Saffron Foods,Finance Transformation,Time & Materials,416.0,395.0,105.3,1578100.0,1540065.0,1540065.0,639150.0,900915.0,58.5,97.6
+P056,Lumen Hospitals Risk Assessment,Lumen Hospitals,Risk Advisory,Time & Materials,2025.0,1819.0,111.3,5042500.0,4860797.0,4285367.0,1960700.0,2900097.0,59.7,96.4
+P057,Pinnacle Finance Risk Assessment,Pinnacle Finance,Finance Transformation,Fixed Fee,408.5,394.0,103.7,1462200.0,1022077.0,649080.0,568350.0,453727.0,44.4,69.9
+P058,Pinnacle Finance Reporting Revamp,Pinnacle Finance,Finance Transformation,Time & Materials,470.5,556.0,84.6,2619700.0,1595333.0,923548.0,1060825.0,534508.0,33.5,60.9
+P059,Cedar Bank Tax Automation,Cedar Bank,Risk Advisory,Fixed Fee,1756.0,2031.0,86.5,6952400.0,6117231.0,5294170.0,2729675.0,3387556.0,55.4,88.0
+P060,Coral Hotels Data Platform,Coral Hotels,Tax Technology,Fixed Fee,414.5,399.0,103.9,1380900.0,643674.0,0.0,588875.0,54799.0,8.5,46.6
+P061,Atlas Insurance Controls Review,Atlas Insurance,Data & Analytics,Fixed Fee,1067.0,1215.0,87.8,3444900.0,3316673.0,3316673.0,1338700.0,1977973.0,59.6,96.3
+P062,Coral Hotels Tax Automation,Coral Hotels,Risk Advisory,Fixed Fee,1268.5,1309.0,96.9,4256700.0,3768625.0,2962248.0,1636875.0,2131750.0,56.6,88.5
+P063,Nova Pharma ERP Migration,Nova Pharma,Finance Transformation,Time & Materials,433.0,404.0,107.2,1477200.0,1382285.0,1382285.0,560650.0,821635.0,59.4,93.6
+P064,Pinnacle Finance Audit Analytics,Pinnacle Finance,Tax Technology,Time & Materials,317.5,330.0,96.2,1729600.0,1107043.0,612765.0,680900.0,426143.0,38.5,64.0
+P065,Cedar Bank Controls Review,Cedar Bank,Data & Analytics,Time & Materials,691.5,626.0,110.5,1432300.0,1353097.0,1053747.0,555825.0,797272.0,58.9,94.5
+P066,Cedar Bank Audit Analytics,Cedar Bank,Data & Analytics,Time & Materials,546.0,560.0,97.5,2278000.0,2154822.0,2154822.0,962375.0,1192447.0,55.3,94.6
+P067,Ember Energy Data Platform,Ember Energy,Risk Advisory,Time & Materials,1372.0,1200.0,114.3,3455600.0,2824218.0,1464482.0,1384025.0,1440193.0,51.0,81.7
+P068,Atlas Insurance Data Platform,Atlas Insurance,Tax Technology,Fixed Fee,1968.5,2620.0,75.1,7773200.0,6818057.0,6818057.0,3039700.0,3778357.0,55.4,87.7
+P069,Sapphire Retail Data Platform,Sapphire Retail,Risk Advisory,Time & Materials,1390.0,1231.0,112.9,4081200.0,3621032.0,2412914.0,1614625.0,2006407.0,55.4,88.7
+P070,Maple Telecom ERP Migration,Maple Telecom,Tax Technology,Fixed Fee,1028.5,1272.0,80.9,3121100.0,2945805.0,2945805.0,1210400.0,1735405.0,58.9,94.4
+P071,Helix Biotech Audit Analytics,Helix Biotech,Tax Technology,Fixed Fee,537.5,574.0,93.6,1402700.0,1353947.0,1353947.0,557800.0,796147.0,58.8,96.5
+P072,Falcon Airways Audit Analytics,Falcon Airways,Risk Advisory,Fixed Fee,1197.5,1245.0,96.2,3678900.0,3194390.0,2335751.0,1422525.0,1771865.0,55.5,86.8
+P073,Kestrel Logistics Tax Automation,Kestrel Logistics,Data & Analytics,Fixed Fee,825.0,1041.0,79.3,2509000.0,1989166.0,1544445.0,1001100.0,988066.0,49.7,79.3
+P074,Orion Steel Data Platform,Orion Steel,Finance Transformation,Fixed Fee,784.5,842.0,93.2,2346600.0,2247307.0,2247307.0,918800.0,1328507.0,59.1,95.8
+P075,Pinnacle Finance Risk Assessment,Pinnacle Finance,Data & Analytics,Fixed Fee,2609.5,2300.0,113.5,8004200.0,7512294.0,7512294.0,3181450.0,4330844.0,57.7,93.9
+P076,Quartz Mining Tax Automation,Quartz Mining,Finance Transformation,Fixed Fee,647.0,830.0,78.0,1634400.0,1676322.0,1676322.0,674050.0,1002272.0,59.8,102.6
+P077,Lumen Hospitals Reporting Revamp,Lumen Hospitals,Risk Advisory,Fixed Fee,974.5,1144.0,85.2,2592500.0,2048944.0,1019428.0,1090475.0,958469.0,46.8,79.0
+P078,Lumen Hospitals Controls Review,Lumen Hospitals,Finance Transformation,Fixed Fee,868.5,1062.0,81.8,3213600.0,3142388.0,3142388.0,1258875.0,1883513.0,59.9,97.8
+P079,Falcon Airways ERP Migration,Falcon Airways,Tax Technology,Time & Materials,1477.0,1623.0,91.0,4447700.0,4284450.0,4284450.0,1790725.0,2493725.0,58.2,96.3
+P080,Helix Biotech Tax Automation,Helix Biotech,Tax Technology,Time & Materials,1326.5,1406.0,94.3,3670500.0,3628750.0,3628750.0,1502650.0,2126100.0,58.6,98.9

@@ -1,0 +1,35 @@
+project_id,project_name,client_name,practice,period,billable_hours,wip_value
+P002,Nova Pharma Tax Automation,Nova Pharma,Finance Transformation,2026-10,309.0,1551300.0
+P006,Saffron Foods Tax Automation,Saffron Foods,Data & Analytics,2026-10,311.0,1049700.0
+P007,Lumen Hospitals Tax Automation,Lumen Hospitals,Risk Advisory,2026-10,238.0,956600.0
+P013,Terra Agro ERP Migration,Terra Agro,Data & Analytics,2026-10,222.5,571800.0
+P014,Harbor Textiles Risk Assessment,Harbor Textiles,Finance Transformation,2026-10,267.0,1108200.0
+P015,Cobalt Electronics Tax Automation,Cobalt Electronics,Data & Analytics,2026-10,128.5,463600.0
+P018,Pinnacle Finance Audit Analytics,Pinnacle Finance,Finance Transformation,2026-10,185.5,503700.0
+P020,Granite Cement Audit Analytics,Granite Cement,Finance Transformation,2026-10,278.0,825800.0
+P024,Orion Steel Data Platform,Orion Steel,Data & Analytics,2026-10,105.5,386300.0
+P025,Summit Realty ERP Migration,Summit Realty,Data & Analytics,2026-10,143.5,479600.0
+P028,Terra Agro Data Platform,Terra Agro,Risk Advisory,2026-10,283.0,840300.0
+P033,Vertex Auto Data Platform,Vertex Auto,Data & Analytics,2026-10,77.5,227000.0
+P037,Terra Agro ERP Migration,Terra Agro,Risk Advisory,2026-10,134.0,554100.0
+P042,Harbor Textiles Audit Analytics,Harbor Textiles,Tax Technology,2026-10,187.5,728500.0
+P044,Vertex Auto Tax Automation,Vertex Auto,Finance Transformation,2026-10,192.5,810600.0
+P047,Lumen Hospitals Controls Review,Lumen Hospitals,Finance Transformation,2025-11,106.5,404400.0
+P047,Lumen Hospitals Controls Review,Lumen Hospitals,Finance Transformation,2026-10,5.0,9000.0
+P049,Quartz Mining Audit Analytics,Quartz Mining,Risk Advisory,2026-10,138.5,373300.0
+P050,Saffron Foods Data Platform,Saffron Foods,Finance Transformation,2026-10,118.0,621200.0
+P052,Coral Hotels Tax Automation,Coral Hotels,Risk Advisory,2026-10,111.0,312200.0
+P053,Coral Hotels Tax Automation,Coral Hotels,Data & Analytics,2026-10,97.5,253100.0
+P054,Harbor Textiles ERP Migration,Harbor Textiles,Data & Analytics,2026-10,162.0,511500.0
+P057,Pinnacle Finance Risk Assessment,Pinnacle Finance,Finance Transformation,2026-10,105.5,451600.0
+P058,Pinnacle Finance Reporting Revamp,Pinnacle Finance,Finance Transformation,2026-10,129.5,792200.0
+P059,Cedar Bank Tax Automation,Cedar Bank,Risk Advisory,2026-10,159.5,941200.0
+P060,Coral Hotels Data Platform,Coral Hotels,Tax Technology,2026-10,183.5,707800.0
+P062,Coral Hotels Tax Automation,Coral Hotels,Risk Advisory,2026-10,66.5,237400.0
+P064,Pinnacle Finance Audit Analytics,Pinnacle Finance,Tax Technology,2026-10,94.0,554900.0
+P067,Ember Energy Data Platform,Ember Energy,Risk Advisory,2026-10,193.5,523600.0
+P068,Atlas Insurance Data Platform,Atlas Insurance,Tax Technology,2025-07,185.0,680700.0
+P069,Sapphire Retail Data Platform,Sapphire Retail,Risk Advisory,2026-10,104.0,372200.0
+P072,Falcon Airways Audit Analytics,Falcon Airways,Risk Advisory,2026-10,91.0,309600.0
+P073,Kestrel Logistics Tax Automation,Kestrel Logistics,Data & Analytics,2026-10,147.0,483000.0
+P077,Lumen Hospitals Reporting Revamp,Lumen Hospitals,Risk Advisory,2026-10,162.5,501600.0

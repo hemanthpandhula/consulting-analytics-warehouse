@@ -1,0 +1,33 @@
+{
+  "as_of": "2026-10-31",
+  "raw_rows": {
+    "clients": 32,
+    "projects": 80,
+    "timesheets": 21266,
+    "invoices": 594,
+    "payments": 549
+  },
+  "loaded_rows": {
+    "clients": 30,
+    "projects": 80,
+    "timesheets": 20501,
+    "invoices": 586,
+    "payments": 539
+  },
+  "duplicates_removed": {
+    "clients": 2,
+    "projects": 0,
+    "timesheets": 252,
+    "invoices": 6,
+    "payments": 5
+  },
+  "quarantined": {
+    "clients": 0,
+    "projects": 0,
+    "timesheets": 513,
+    "invoices": 2,
+    "payments": 5
+  },
+  "critical_failures": [],
+  "seconds": 0.5
+}

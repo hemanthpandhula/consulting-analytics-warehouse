@@ -1,0 +1,81 @@
+employee_key,employee_id,full_name,practice,location,grade,bill_rate,cost_rate,valid_from,valid_to,is_current
+1,E001,Sneha Chowdary,Finance Transformation,Delhi NCR,Senior Analyst,2600.0,950.0,2024-11-01,9999-12-31,1
+2,E002,Ishita Sharma,Tax Technology,Hyderabad,Consultant,3600.0,1300.0,2026-01-28,9999-12-31,1
+3,E003,Teja Sharma,Finance Transformation,Mumbai,Consultant,3600.0,1300.0,2025-04-06,9999-12-31,1
+4,E004,Ishita Chowdary,Finance Transformation,Bengaluru,Manager,5200.0,1900.0,2025-05-20,2026-08-13,0
+5,E004,Ishita Chowdary,Finance Transformation,Bengaluru,Director,8000.0,2900.0,2026-08-13,9999-12-31,1
+6,E005,Vamsi Patel,Tax Technology,Hyderabad,Analyst,1800.0,650.0,2024-01-12,9999-12-31,1
+7,E006,Divya Sharma,Tax Technology,Hyderabad,Manager,5200.0,1900.0,2025-07-28,9999-12-31,1
+8,E007,Divya Chowdary,Risk Advisory,Hyderabad,Analyst,1800.0,650.0,2025-01-03,2026-04-15,0
+9,E007,Divya Chowdary,Risk Advisory,Hyderabad,Senior Analyst,2600.0,950.0,2026-04-15,9999-12-31,1
+10,E008,Arjun Mehta,Tax Technology,Bengaluru,Manager,5200.0,1900.0,2025-03-18,2025-10-06,0
+11,E008,Arjun Mehta,Tax Technology,Bengaluru,Director,8000.0,2900.0,2025-10-06,9999-12-31,1
+12,E009,Neha Gupta,Data & Analytics,Bengaluru,Consultant,3600.0,1300.0,2025-11-16,9999-12-31,1
+13,E010,Rohan Naidu,Tax Technology,Mumbai,Senior Analyst,2600.0,950.0,2025-10-06,9999-12-31,1
+14,E011,Neha Iyer,Risk Advisory,Delhi NCR,Consultant,3600.0,1300.0,2023-01-08,9999-12-31,1
+15,E012,Vihaan Verma,Risk Advisory,Hyderabad,Senior Analyst,2600.0,950.0,2024-10-16,2025-10-17,0
+16,E012,Vihaan Verma,Risk Advisory,Hyderabad,Consultant,3600.0,1300.0,2025-10-17,9999-12-31,1
+17,E013,Aarav Iyer,Risk Advisory,Hyderabad,Senior Analyst,2600.0,950.0,2025-08-08,9999-12-31,1
+18,E014,Aarav Singh,Tax Technology,Hyderabad,Analyst,1800.0,650.0,2024-04-13,2026-01-30,0
+19,E014,Aarav Singh,Tax Technology,Hyderabad,Senior Analyst,2600.0,950.0,2026-01-30,9999-12-31,1
+20,E015,Rahul Iyer,Finance Transformation,Delhi NCR,Analyst,1800.0,650.0,2023-02-18,2024-10-23,0
+21,E015,Rahul Iyer,Finance Transformation,Delhi NCR,Senior Analyst,2600.0,950.0,2024-10-23,9999-12-31,1
+22,E016,Ananya Singh,Data & Analytics,Mumbai,Senior Analyst,2600.0,950.0,2024-04-28,2025-09-21,0
+23,E016,Ananya Singh,Data & Analytics,Mumbai,Consultant,3600.0,1300.0,2025-09-21,9999-12-31,1
+24,E017,Pooja Chowdary,Data & Analytics,Hyderabad,Senior Analyst,2600.0,950.0,2024-05-01,9999-12-31,1
+25,E018,Neha Nair,Data & Analytics,Mumbai,Senior Analyst,2600.0,950.0,2024-12-19,9999-12-31,1
+26,E019,Varun Reddy,Finance Transformation,Delhi NCR,Analyst,1800.0,650.0,2023-11-13,9999-12-31,1
+27,E020,Varun Das,Data & Analytics,Mumbai,Consultant,3600.0,1300.0,2025-06-26,2026-04-14,0
+28,E020,Varun Das,Data & Analytics,Mumbai,Manager,5200.0,1900.0,2026-04-14,9999-12-31,1
+29,E021,Manoj Verma,Tax Technology,Mumbai,Senior Analyst,2600.0,950.0,2023-04-07,2024-10-12,0
+30,E021,Manoj Verma,Tax Technology,Mumbai,Consultant,3600.0,1300.0,2024-10-12,9999-12-31,1
+31,E022,Pooja Kumar,Finance Transformation,Hyderabad,Consultant,3600.0,1300.0,2024-05-19,2025-11-03,0
+32,E022,Pooja Kumar,Finance Transformation,Hyderabad,Manager,5200.0,1900.0,2025-11-03,9999-12-31,1
+33,E023,Kavya Mehta,Risk Advisory,Delhi NCR,Senior Analyst,2600.0,950.0,2023-01-02,9999-12-31,1
+34,E024,Harsha Joshi,Finance Transformation,Bengaluru,Consultant,3600.0,1300.0,2025-03-02,2025-10-13,0
+35,E024,Harsha Joshi,Finance Transformation,Bengaluru,Manager,5200.0,1900.0,2025-10-13,9999-12-31,1
+36,E025,Diya Mehta,Risk Advisory,Hyderabad,Analyst,1800.0,650.0,2024-01-19,9999-12-31,1
+37,E026,Diya Mehta,Data & Analytics,Bengaluru,Senior Analyst,2600.0,950.0,2023-04-30,9999-12-31,1
+38,E027,Vihaan Patel,Data & Analytics,Bengaluru,Senior Analyst,2600.0,950.0,2025-12-13,9999-12-31,1
+39,E028,Arjun Das,Tax Technology,Hyderabad,Senior Analyst,2600.0,950.0,2023-08-29,9999-12-31,1
+40,E029,Divya Kumar,Finance Transformation,Delhi NCR,Consultant,3600.0,1300.0,2024-04-07,2025-01-16,0
+41,E029,Divya Kumar,Finance Transformation,Delhi NCR,Manager,5200.0,1900.0,2025-01-16,9999-12-31,1
+42,E030,Manoj Sharma,Finance Transformation,Bengaluru,Consultant,3600.0,1300.0,2023-12-18,2024-08-05,0
+43,E030,Manoj Sharma,Finance Transformation,Bengaluru,Manager,5200.0,1900.0,2024-08-05,9999-12-31,1
+44,E031,Swathi Mehta,Finance Transformation,Mumbai,Senior Analyst,2600.0,950.0,2023-07-13,2024-07-29,0
+45,E031,Swathi Mehta,Finance Transformation,Mumbai,Consultant,3600.0,1300.0,2024-07-29,9999-12-31,1
+46,E032,Aarav Mehta,Tax Technology,Mumbai,Senior Analyst,2600.0,950.0,2025-03-03,9999-12-31,1
+47,E033,Sneha Chowdary,Data & Analytics,Bengaluru,Analyst,1800.0,650.0,2026-01-14,9999-12-31,1
+48,E034,Harsha Mehta,Finance Transformation,Hyderabad,Analyst,1800.0,650.0,2025-04-03,2025-10-26,0
+49,E034,Harsha Mehta,Finance Transformation,Hyderabad,Senior Analyst,2600.0,950.0,2025-10-26,9999-12-31,1
+50,E035,Naveen Singh,Tax Technology,Mumbai,Senior Analyst,2600.0,950.0,2025-11-27,9999-12-31,1
+51,E036,Divya Patel,Tax Technology,Mumbai,Analyst,1800.0,650.0,2025-11-06,2026-05-25,0
+52,E036,Divya Patel,Tax Technology,Mumbai,Senior Analyst,2600.0,950.0,2026-05-25,9999-12-31,1
+53,E037,Divya Joshi,Risk Advisory,Hyderabad,Consultant,3600.0,1300.0,2024-08-23,9999-12-31,1
+54,E038,Teja Naidu,Tax Technology,Delhi NCR,Senior Analyst,2600.0,950.0,2024-08-03,9999-12-31,1
+55,E039,Kavya Reddy,Finance Transformation,Delhi NCR,Director,8000.0,2900.0,2026-01-09,9999-12-31,1
+56,E040,Kavya Mehta,Finance Transformation,Delhi NCR,Analyst,1800.0,650.0,2026-02-08,9999-12-31,1
+57,E041,Suresh Gupta,Tax Technology,Bengaluru,Director,8000.0,2900.0,2023-09-16,9999-12-31,1
+58,E042,Aarav Iyer,Finance Transformation,Delhi NCR,Manager,5200.0,1900.0,2025-03-02,2026-06-01,0
+59,E042,Aarav Iyer,Finance Transformation,Delhi NCR,Director,8000.0,2900.0,2026-06-01,9999-12-31,1
+60,E043,Varun Joshi,Tax Technology,Delhi NCR,Analyst,1800.0,650.0,2025-12-26,9999-12-31,1
+61,E044,Rahul Rao,Data & Analytics,Bengaluru,Senior Analyst,2600.0,950.0,2025-11-04,2026-10-14,0
+62,E044,Rahul Rao,Data & Analytics,Bengaluru,Consultant,3600.0,1300.0,2026-10-14,9999-12-31,1
+63,E045,Shreya Joshi,Finance Transformation,Hyderabad,Consultant,3600.0,1300.0,2023-11-06,9999-12-31,1
+64,E046,Shreya Singh,Data & Analytics,Delhi NCR,Manager,5200.0,1900.0,2024-04-25,9999-12-31,1
+65,E047,Shreya Verma,Data & Analytics,Bengaluru,Senior Analyst,2600.0,950.0,2023-07-18,9999-12-31,1
+66,E048,Swathi Sharma,Data & Analytics,Hyderabad,Consultant,3600.0,1300.0,2025-03-12,9999-12-31,1
+67,E049,Arjun Patel,Data & Analytics,Mumbai,Analyst,1800.0,650.0,2024-03-02,9999-12-31,1
+68,E050,Lakshmi Reddy,Tax Technology,Hyderabad,Analyst,1800.0,650.0,2025-11-09,9999-12-31,1
+69,E051,Ishita Singh,Data & Analytics,Hyderabad,Senior Analyst,2600.0,950.0,2024-12-12,9999-12-31,1
+70,E052,Varun Joshi,Finance Transformation,Hyderabad,Director,8000.0,2900.0,2023-12-24,9999-12-31,1
+71,E053,Varun Joshi,Data & Analytics,Hyderabad,Senior Analyst,2600.0,950.0,2025-05-30,2026-01-12,0
+72,E053,Varun Joshi,Data & Analytics,Hyderabad,Consultant,3600.0,1300.0,2026-01-12,9999-12-31,1
+73,E054,Diya Nair,Data & Analytics,Mumbai,Consultant,3600.0,1300.0,2026-01-08,9999-12-31,1
+74,E055,Priya Mehta,Finance Transformation,Mumbai,Consultant,3600.0,1300.0,2025-07-15,9999-12-31,1
+75,E056,Karthik Reddy,Finance Transformation,Delhi NCR,Analyst,1800.0,650.0,2024-04-16,9999-12-31,1
+76,E057,Rohan Sharma,Finance Transformation,Mumbai,Consultant,3600.0,1300.0,2026-03-24,9999-12-31,1
+77,E058,Anjali Reddy,Risk Advisory,Mumbai,Manager,5200.0,1900.0,2025-08-25,9999-12-31,1
+78,E059,Vamsi Rao,Risk Advisory,Mumbai,Director,8000.0,2900.0,2024-11-22,9999-12-31,1
+79,E060,Anjali Naidu,Data & Analytics,Bengaluru,Analyst,1800.0,650.0,2024-03-19,2025-10-23,0
+80,E060,Anjali Naidu,Data & Analytics,Bengaluru,Senior Analyst,2600.0,950.0,2025-10-23,9999-12-31,1

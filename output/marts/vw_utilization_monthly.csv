@@ -1,0 +1,1110 @@
+employee_id,full_name,practice,location,year,month,month_start,capacity_hours,total_hours,billable_hours,utilization_pct
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,1,2025-01-01,184,55.5,46.5,25.3
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,2,2025-02-01,160,36.0,31.5,19.7
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,3,2025-03-01,168,52.5,52.5,31.3
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,4,2025-04-01,176,121.0,109.0,61.9
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,5,2025-05-01,176,96.5,80.5,45.7
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,6,2025-06-01,168,88.5,75.5,44.9
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,7,2025-07-01,184,145.5,125.5,68.2
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,8,2025-08-01,168,146.0,135.0,80.4
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,9,2025-09-01,176,155.5,143.0,81.3
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,10,2025-10-01,184,157.5,127.5,69.3
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,11,2025-11-01,160,167.0,153.0,95.6
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2025,12,2025-12-01,184,174.0,167.5,91.0
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,170.5,147.5,83.8
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,150.0,146.0,91.3
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,143.0,137.0,77.8
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,144.5,144.5,82.1
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,115.0,95.0,56.5
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,130.5,130.5,74.1
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,161.5,146.5,79.6
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,66.5,66.5,39.6
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,72.5,66.5,37.8
+E001,Sneha Chowdary,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,70.5,49.5,28.1
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,1,2026-01-01,176,0,0,0.0
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,2,2026-02-01,160,0,0,0.0
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,3,2026-03-01,176,0,0,0.0
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,4,2026-04-01,176,0,0,0.0
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,5,2026-05-01,168,0,0,0.0
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,6,2026-06-01,176,76.5,67.0,38.1
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,7,2026-07-01,184,74.5,70.0,38.0
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,8,2026-08-01,168,95.5,83.5,49.7
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,9,2026-09-01,176,85.5,68.5,38.9
+E002,Ishita Sharma,Tax Technology,Hyderabad,2026,10,2026-10-01,176,109.5,97.0,55.1
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,4,2025-04-01,176,0,0,0.0
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,5,2025-05-01,176,0,0,0.0
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,6,2025-06-01,168,5.0,5.0,3.0
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,7,2025-07-01,184,102.5,102.5,55.7
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,8,2025-08-01,168,93.5,86.5,51.5
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,9,2025-09-01,176,93.0,93.0,52.8
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,10,2025-10-01,184,129.5,117.5,63.9
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,11,2025-11-01,160,98.0,87.5,54.7
+E003,Teja Sharma,Finance Transformation,Mumbai,2025,12,2025-12-01,184,140.5,127.5,69.3
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,1,2026-01-01,176,148.0,142.0,80.7
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,2,2026-02-01,160,147.5,133.5,83.4
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,3,2026-03-01,176,149.0,144.0,81.8
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,4,2026-04-01,176,152.5,142.5,81.0
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,5,2026-05-01,168,128.0,125.0,74.4
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,6,2026-06-01,176,136.5,116.5,66.2
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,7,2026-07-01,184,156.5,136.5,74.2
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,8,2026-08-01,168,136.0,120.0,71.4
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,9,2026-09-01,176,142.5,132.5,75.3
+E003,Teja Sharma,Finance Transformation,Mumbai,2026,10,2026-10-01,176,155.0,137.0,77.8
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,5,2025-05-01,176,0,0,0.0
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,6,2025-06-01,168,19.5,19.5,11.6
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,7,2025-07-01,184,102.5,89.5,48.6
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,8,2025-08-01,168,125.5,102.5,61.0
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,9,2025-09-01,176,117.0,109.0,61.9
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,10,2025-10-01,184,138.0,122.0,66.3
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,11,2025-11-01,160,134.5,125.5,78.4
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2025,12,2025-12-01,184,143.5,123.0,66.8
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,1,2026-01-01,176,174.5,172.5,98.0
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,2,2026-02-01,160,151.5,136.5,85.3
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,3,2026-03-01,176,155.0,135.0,76.7
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,4,2026-04-01,176,162.5,153.5,87.2
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,5,2026-05-01,168,136.5,130.5,77.7
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,6,2026-06-01,176,147.5,134.5,76.4
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,7,2026-07-01,184,135.0,124.0,67.4
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,8,2026-08-01,168,137.5,137.5,81.8
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,9,2026-09-01,176,142.5,131.5,74.7
+E004,Ishita Chowdary,Finance Transformation,Bengaluru,2026,10,2026-10-01,176,162.5,155.5,88.4
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,1,2025-01-01,184,34.0,28.0,15.2
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,2,2025-02-01,160,72.0,72.0,45.0
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,3,2025-03-01,168,76.0,70.0,41.7
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,4,2025-04-01,176,92.5,86.5,49.1
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,5,2025-05-01,176,105.5,102.5,58.2
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,6,2025-06-01,168,124.5,124.5,74.1
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,7,2025-07-01,184,145.0,128.0,69.6
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,8,2025-08-01,168,120.0,113.0,67.3
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,9,2025-09-01,176,105.0,99.0,56.3
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,10,2025-10-01,184,77.5,67.5,36.7
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,11,2025-11-01,160,132.0,113.0,70.6
+E005,Vamsi Patel,Tax Technology,Hyderabad,2025,12,2025-12-01,184,123.5,111.5,60.6
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,1,2026-01-01,176,110.5,103.5,58.8
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,2,2026-02-01,160,83.5,75.5,47.2
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,3,2026-03-01,176,82.5,76.5,43.5
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,4,2026-04-01,176,85.0,85.0,48.3
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,5,2026-05-01,168,68.5,65.5,39.0
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,6,2026-06-01,176,44.5,39.5,22.4
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,7,2026-07-01,184,55.5,55.5,30.2
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,8,2026-08-01,168,56.5,52.0,31.0
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,9,2026-09-01,176,112.0,112.0,63.6
+E005,Vamsi Patel,Tax Technology,Hyderabad,2026,10,2026-10-01,176,50.0,50.0,28.4
+E006,Divya Sharma,Tax Technology,Hyderabad,2025,7,2025-07-01,184,13.0,13.0,7.1
+E006,Divya Sharma,Tax Technology,Hyderabad,2025,8,2025-08-01,168,57.0,50.5,30.1
+E006,Divya Sharma,Tax Technology,Hyderabad,2025,9,2025-09-01,176,44.0,40.0,22.7
+E006,Divya Sharma,Tax Technology,Hyderabad,2025,10,2025-10-01,184,80.0,73.0,39.7
+E006,Divya Sharma,Tax Technology,Hyderabad,2025,11,2025-11-01,160,69.5,62.5,39.1
+E006,Divya Sharma,Tax Technology,Hyderabad,2025,12,2025-12-01,184,105.0,95.0,51.6
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,1,2026-01-01,176,109.0,109.0,61.9
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,2,2026-02-01,160,90.0,73.5,45.9
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,3,2026-03-01,176,119.0,112.0,63.6
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,4,2026-04-01,176,114.5,107.0,60.8
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,5,2026-05-01,168,113.0,106.0,63.1
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,6,2026-06-01,176,113.5,109.0,61.9
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,7,2026-07-01,184,110.0,103.0,56.0
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,8,2026-08-01,168,109.0,100.0,59.5
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,9,2026-09-01,176,111.5,105.5,59.9
+E006,Divya Sharma,Tax Technology,Hyderabad,2026,10,2026-10-01,176,76.0,64.5,36.6
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,1,2025-01-01,184,65.5,63.5,34.5
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,2,2025-02-01,160,33.0,33.0,20.6
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,3,2025-03-01,168,45.0,36.5,21.7
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,4,2025-04-01,176,87.0,83.0,47.2
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,5,2025-05-01,176,69.5,61.5,34.9
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,6,2025-06-01,168,106.5,82.0,48.8
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,7,2025-07-01,184,165.5,159.5,86.7
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,8,2025-08-01,168,109.5,109.5,65.2
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,9,2025-09-01,176,161.0,146.5,83.2
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,10,2025-10-01,184,181.0,140.5,76.4
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,11,2025-11-01,160,128.0,104.0,65.0
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2025,12,2025-12-01,184,157.5,130.0,70.7
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,1,2026-01-01,176,143.0,143.0,81.3
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,2,2026-02-01,160,106.5,95.5,59.7
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,3,2026-03-01,176,139.0,134.5,76.4
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,4,2026-04-01,176,140.0,135.0,76.7
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,5,2026-05-01,168,88.5,84.5,50.3
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,6,2026-06-01,176,131.5,128.5,73.0
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,7,2026-07-01,184,84.0,79.5,43.2
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,8,2026-08-01,168,36.5,36.5,21.7
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,9,2026-09-01,176,0,0,0.0
+E007,Divya Chowdary,Risk Advisory,Hyderabad,2026,10,2026-10-01,176,0,0,0.0
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,3,2025-03-01,168,3.0,3.0,1.8
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,4,2025-04-01,176,33.5,33.5,19.0
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,5,2025-05-01,176,85.5,79.5,45.2
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,6,2025-06-01,168,46.5,46.5,27.7
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,7,2025-07-01,184,87.5,84.5,45.9
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,8,2025-08-01,168,98.5,98.5,58.6
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,9,2025-09-01,176,82.0,75.5,42.9
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,10,2025-10-01,184,115.5,108.5,59.0
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,11,2025-11-01,160,111.5,111.5,69.7
+E008,Arjun Mehta,Tax Technology,Bengaluru,2025,12,2025-12-01,184,145.0,128.0,69.6
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,1,2026-01-01,176,135.0,121.0,68.8
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,2,2026-02-01,160,141.0,122.5,76.6
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,3,2026-03-01,176,149.5,134.5,76.4
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,4,2026-04-01,176,143.0,135.0,76.7
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,5,2026-05-01,168,132.5,132.5,78.9
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,6,2026-06-01,176,146.0,141.0,80.1
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,7,2026-07-01,184,155.0,148.0,80.4
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,8,2026-08-01,168,82.0,77.5,46.1
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,9,2026-09-01,176,68.5,68.5,38.9
+E008,Arjun Mehta,Tax Technology,Bengaluru,2026,10,2026-10-01,176,130.5,101.5,57.7
+E009,Neha Gupta,Data & Analytics,Bengaluru,2025,11,2025-11-01,160,0,0,0.0
+E009,Neha Gupta,Data & Analytics,Bengaluru,2025,12,2025-12-01,184,60.5,54.5,29.6
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,53.0,53.0,30.1
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,86.5,86.5,54.1
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,81.0,75.0,42.6
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,100.5,81.5,46.3
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,80.5,76.5,45.5
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,107.5,105.5,59.9
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,130.5,130.5,70.9
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,131.0,124.0,73.8
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,131.0,131.0,74.4
+E009,Neha Gupta,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,121.0,107.0,60.8
+E010,Rohan Naidu,Tax Technology,Mumbai,2025,10,2025-10-01,184,0,0,0.0
+E010,Rohan Naidu,Tax Technology,Mumbai,2025,11,2025-11-01,160,0,0,0.0
+E010,Rohan Naidu,Tax Technology,Mumbai,2025,12,2025-12-01,184,21.0,21.0,11.4
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,1,2026-01-01,176,63.5,61.5,34.9
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,2,2026-02-01,160,33.0,33.0,20.6
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,3,2026-03-01,176,66.5,66.5,37.8
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,4,2026-04-01,176,55.5,51.0,29.0
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,5,2026-05-01,168,43.5,31.5,18.8
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,6,2026-06-01,176,82.0,79.0,44.9
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,7,2026-07-01,184,134.5,108.5,59.0
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,8,2026-08-01,168,125.5,116.5,69.3
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,9,2026-09-01,176,144.5,124.0,70.5
+E010,Rohan Naidu,Tax Technology,Mumbai,2026,10,2026-10-01,176,113.5,104.5,59.4
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,1,2025-01-01,184,112.5,112.5,61.1
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,2,2025-02-01,160,116.0,94.0,58.8
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,3,2025-03-01,168,137.0,133.0,79.2
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,4,2025-04-01,176,140.5,138.5,78.7
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,5,2025-05-01,176,139.5,128.0,72.7
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,6,2025-06-01,168,104.5,98.5,58.6
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,7,2025-07-01,184,133.0,130.0,70.7
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,8,2025-08-01,168,118.0,102.0,60.7
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,9,2025-09-01,176,92.0,77.0,43.8
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,10,2025-10-01,184,137.0,137.0,74.5
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,11,2025-11-01,160,84.5,82.5,51.6
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2025,12,2025-12-01,184,97.5,87.5,47.6
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,1,2026-01-01,176,130.0,123.0,69.9
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,2,2026-02-01,160,102.0,92.5,57.8
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,3,2026-03-01,176,121.0,114.0,64.8
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,4,2026-04-01,176,127.5,118.0,67.0
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,5,2026-05-01,168,134.0,126.0,75.0
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,6,2026-06-01,176,153.0,149.0,84.7
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,7,2026-07-01,184,164.5,159.5,86.7
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,8,2026-08-01,168,144.0,136.0,81.0
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,9,2026-09-01,176,130.0,116.0,65.9
+E011,Neha Iyer,Risk Advisory,Delhi NCR,2026,10,2026-10-01,176,123.0,114.5,65.1
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,2,2025-02-01,160,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,4,2025-04-01,176,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,5,2025-05-01,176,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,6,2025-06-01,168,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,7,2025-07-01,184,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,8,2025-08-01,168,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,9,2025-09-01,176,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,10,2025-10-01,184,0,0,0.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,11,2025-11-01,160,26.0,26.0,16.3
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2025,12,2025-12-01,184,76.0,70.0,38.0
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,1,2026-01-01,176,85.0,85.0,48.3
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,2,2026-02-01,160,72.0,68.0,42.5
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,3,2026-03-01,176,124.0,106.0,60.2
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,4,2026-04-01,176,131.0,120.0,68.2
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,5,2026-05-01,168,140.5,138.5,82.4
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,6,2026-06-01,176,141.5,134.5,76.4
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,7,2026-07-01,184,137.0,124.5,67.7
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,8,2026-08-01,168,155.5,129.0,76.8
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,9,2026-09-01,176,145.0,134.0,76.1
+E012,Vihaan Verma,Risk Advisory,Hyderabad,2026,10,2026-10-01,176,147.0,127.5,72.4
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2025,8,2025-08-01,168,6.0,6.0,3.6
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2025,9,2025-09-01,176,83.5,83.5,47.4
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2025,10,2025-10-01,184,90.0,76.0,41.3
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2025,11,2025-11-01,160,111.0,106.0,66.3
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2025,12,2025-12-01,184,148.5,137.5,74.7
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,1,2026-01-01,176,127.0,116.0,65.9
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,2,2026-02-01,160,102.0,102.0,63.8
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,3,2026-03-01,176,153.0,143.0,81.3
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,4,2026-04-01,176,143.0,136.0,77.3
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,5,2026-05-01,168,115.0,94.0,56.0
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,6,2026-06-01,176,93.5,89.0,50.6
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,7,2026-07-01,184,107.5,103.5,56.3
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,8,2026-08-01,168,93.0,74.0,44.0
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,9,2026-09-01,176,101.0,101.0,57.4
+E013,Aarav Iyer,Risk Advisory,Hyderabad,2026,10,2026-10-01,176,60.5,60.5,34.4
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,2,2025-02-01,160,0,0,0.0
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,4,2025-04-01,176,3.0,3.0,1.7
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,5,2025-05-01,176,58.0,55.0,31.3
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,6,2025-06-01,168,56.5,56.5,33.6
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,7,2025-07-01,184,75.0,65.0,35.3
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,8,2025-08-01,168,89.5,83.0,49.4
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,9,2025-09-01,176,99.0,93.0,52.8
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,10,2025-10-01,184,106.0,100.0,54.3
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,11,2025-11-01,160,89.5,74.5,46.6
+E014,Aarav Singh,Tax Technology,Hyderabad,2025,12,2025-12-01,184,107.0,86.0,46.7
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,1,2026-01-01,176,85.0,85.0,48.3
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,2,2026-02-01,160,14.0,14.0,8.8
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,3,2026-03-01,176,0,0,0.0
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,4,2026-04-01,176,49.0,36.0,20.5
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,5,2026-05-01,168,62.5,59.5,35.4
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,6,2026-06-01,176,114.5,96.5,54.8
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,7,2026-07-01,184,119.5,119.5,64.9
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,8,2026-08-01,168,107.5,103.0,61.3
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,9,2026-09-01,176,45.0,39.0,22.2
+E014,Aarav Singh,Tax Technology,Hyderabad,2026,10,2026-10-01,176,58.5,58.5,33.2
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,1,2025-01-01,184,42.0,36.0,19.6
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,2,2025-02-01,160,44.0,31.0,19.4
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,3,2025-03-01,168,125.0,113.0,67.3
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,4,2025-04-01,176,64.5,58.0,33.0
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,5,2025-05-01,176,126.5,120.5,68.5
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,6,2025-06-01,168,110.5,87.0,51.8
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,7,2025-07-01,184,138.0,125.5,68.2
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,8,2025-08-01,168,170.5,168.5,100.3
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,9,2025-09-01,176,160.5,152.5,86.6
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,10,2025-10-01,184,176.5,163.5,88.9
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,11,2025-11-01,160,158.5,124.5,77.8
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2025,12,2025-12-01,184,182.0,177.5,96.5
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,154.0,140.5,79.8
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,129.0,108.5,67.8
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,152.0,146.0,83.0
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,128.5,121.5,69.0
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,99.5,93.5,55.7
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,81.0,81.0,46.0
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,100.5,94.5,51.4
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,49.5,49.5,29.5
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,80.0,69.0,39.2
+E015,Rahul Iyer,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,96.0,80.0,45.5
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,1,2025-01-01,184,0,0,0.0
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,2,2025-02-01,160,0,0,0.0
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,3,2025-03-01,168,15.0,15.0,8.9
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,4,2025-04-01,176,61.0,57.0,32.4
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,5,2025-05-01,176,79.5,79.5,45.2
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,6,2025-06-01,168,98.5,92.5,55.1
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,7,2025-07-01,184,98.0,87.0,47.3
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,8,2025-08-01,168,83.5,78.5,46.7
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,9,2025-09-01,176,97.0,97.0,55.1
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,10,2025-10-01,184,101.0,88.0,47.8
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,11,2025-11-01,160,57.0,57.0,35.6
+E016,Ananya Singh,Data & Analytics,Mumbai,2025,12,2025-12-01,184,120.0,112.0,60.9
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,1,2026-01-01,176,108.5,98.5,56.0
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,2,2026-02-01,160,85.5,80.5,50.3
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,3,2026-03-01,176,107.0,85.0,48.3
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,4,2026-04-01,176,105.0,97.0,55.1
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,5,2026-05-01,168,118.0,101.0,60.1
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,6,2026-06-01,176,110.5,101.5,57.7
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,7,2026-07-01,184,130.0,125.0,67.9
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,8,2026-08-01,168,105.0,89.0,53.0
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,9,2026-09-01,176,100.0,98.0,55.7
+E016,Ananya Singh,Data & Analytics,Mumbai,2026,10,2026-10-01,176,100.0,89.5,50.9
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,2,2025-02-01,160,0,0,0.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,4,2025-04-01,176,0,0,0.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,5,2025-05-01,176,0,0,0.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,6,2025-06-01,168,0,0,0.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,7,2025-07-01,184,84.5,72.5,39.4
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,8,2025-08-01,168,59.0,53.0,31.5
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,9,2025-09-01,176,104.0,92.0,52.3
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,10,2025-10-01,184,97.5,95.5,51.9
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,11,2025-11-01,160,94.0,80.0,50.0
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2025,12,2025-12-01,184,73.0,71.0,38.6
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,1,2026-01-01,176,75.0,61.0,34.7
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,2,2026-02-01,160,91.5,89.5,55.9
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,3,2026-03-01,176,115.0,115.0,65.3
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,4,2026-04-01,176,131.5,116.5,66.2
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,5,2026-05-01,168,129.5,117.5,69.9
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,6,2026-06-01,176,111.0,111.0,63.1
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,7,2026-07-01,184,60.5,60.5,32.9
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,8,2026-08-01,168,48.0,38.0,22.6
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,9,2026-09-01,176,44.5,37.5,21.3
+E017,Pooja Chowdary,Data & Analytics,Hyderabad,2026,10,2026-10-01,176,28.0,28.0,15.9
+E018,Neha Nair,Data & Analytics,Mumbai,2025,1,2025-01-01,184,0,0,0.0
+E018,Neha Nair,Data & Analytics,Mumbai,2025,2,2025-02-01,160,22.5,22.5,14.1
+E018,Neha Nair,Data & Analytics,Mumbai,2025,3,2025-03-01,168,69.5,69.5,41.4
+E018,Neha Nair,Data & Analytics,Mumbai,2025,4,2025-04-01,176,53.5,53.5,30.4
+E018,Neha Nair,Data & Analytics,Mumbai,2025,5,2025-05-01,176,62.0,48.0,27.3
+E018,Neha Nair,Data & Analytics,Mumbai,2025,6,2025-06-01,168,62.5,47.5,28.3
+E018,Neha Nair,Data & Analytics,Mumbai,2025,7,2025-07-01,184,58.0,53.0,28.8
+E018,Neha Nair,Data & Analytics,Mumbai,2025,8,2025-08-01,168,80.0,66.0,39.3
+E018,Neha Nair,Data & Analytics,Mumbai,2025,9,2025-09-01,176,72.0,69.0,39.2
+E018,Neha Nair,Data & Analytics,Mumbai,2025,10,2025-10-01,184,114.0,109.0,59.2
+E018,Neha Nair,Data & Analytics,Mumbai,2025,11,2025-11-01,160,86.5,79.5,49.7
+E018,Neha Nair,Data & Analytics,Mumbai,2025,12,2025-12-01,184,46.5,26.5,14.4
+E018,Neha Nair,Data & Analytics,Mumbai,2026,1,2026-01-01,176,57.0,55.0,31.3
+E018,Neha Nair,Data & Analytics,Mumbai,2026,2,2026-02-01,160,0,0,0.0
+E018,Neha Nair,Data & Analytics,Mumbai,2026,3,2026-03-01,176,0,0,0.0
+E018,Neha Nair,Data & Analytics,Mumbai,2026,4,2026-04-01,176,0,0,0.0
+E018,Neha Nair,Data & Analytics,Mumbai,2026,5,2026-05-01,168,0,0,0.0
+E018,Neha Nair,Data & Analytics,Mumbai,2026,6,2026-06-01,176,51.0,51.0,29.0
+E018,Neha Nair,Data & Analytics,Mumbai,2026,7,2026-07-01,184,56.0,51.5,28.0
+E018,Neha Nair,Data & Analytics,Mumbai,2026,8,2026-08-01,168,142.0,123.0,73.2
+E018,Neha Nair,Data & Analytics,Mumbai,2026,9,2026-09-01,176,159.0,152.0,86.4
+E018,Neha Nair,Data & Analytics,Mumbai,2026,10,2026-10-01,176,135.0,126.5,71.9
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,1,2025-01-01,184,0,0,0.0
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,2,2025-02-01,160,5.0,5.0,3.1
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,3,2025-03-01,168,58.5,46.5,27.7
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,4,2025-04-01,176,55.0,40.0,22.7
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,5,2025-05-01,176,78.0,78.0,44.3
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,6,2025-06-01,168,97.0,81.5,48.5
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,7,2025-07-01,184,104.5,104.5,56.8
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,8,2025-08-01,168,71.0,59.0,35.1
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,9,2025-09-01,176,73.5,69.5,39.5
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,10,2025-10-01,184,72.0,72.0,39.1
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,11,2025-11-01,160,53.0,47.0,29.4
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2025,12,2025-12-01,184,53.5,43.5,23.6
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,53.0,38.0,21.6
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,17.0,17.0,10.6
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,0,0,0.0
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,0,0,0.0
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,0,0,0.0
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,41.0,41.0,23.3
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,107.5,96.5,52.4
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,93.0,85.0,50.6
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,69.5,69.5,39.5
+E019,Varun Reddy,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,100.0,89.0,50.6
+E020,Varun Das,Data & Analytics,Mumbai,2025,6,2025-06-01,168,0,0,0.0
+E020,Varun Das,Data & Analytics,Mumbai,2025,7,2025-07-01,184,59.5,59.5,32.3
+E020,Varun Das,Data & Analytics,Mumbai,2025,8,2025-08-01,168,52.0,52.0,31.0
+E020,Varun Das,Data & Analytics,Mumbai,2025,9,2025-09-01,176,56.5,41.5,23.6
+E020,Varun Das,Data & Analytics,Mumbai,2025,10,2025-10-01,184,65.0,51.0,27.7
+E020,Varun Das,Data & Analytics,Mumbai,2025,11,2025-11-01,160,27.0,27.0,16.9
+E020,Varun Das,Data & Analytics,Mumbai,2025,12,2025-12-01,184,38.0,22.0,12.0
+E020,Varun Das,Data & Analytics,Mumbai,2026,1,2026-01-01,176,72.0,70.0,39.8
+E020,Varun Das,Data & Analytics,Mumbai,2026,2,2026-02-01,160,73.0,67.0,41.9
+E020,Varun Das,Data & Analytics,Mumbai,2026,3,2026-03-01,176,107.5,93.0,52.8
+E020,Varun Das,Data & Analytics,Mumbai,2026,4,2026-04-01,176,122.5,119.5,67.9
+E020,Varun Das,Data & Analytics,Mumbai,2026,5,2026-05-01,168,95.0,91.0,54.2
+E020,Varun Das,Data & Analytics,Mumbai,2026,6,2026-06-01,176,93.0,78.0,44.3
+E020,Varun Das,Data & Analytics,Mumbai,2026,7,2026-07-01,184,82.0,74.0,40.2
+E020,Varun Das,Data & Analytics,Mumbai,2026,8,2026-08-01,168,36.0,36.0,21.4
+E020,Varun Das,Data & Analytics,Mumbai,2026,9,2026-09-01,176,0,0,0.0
+E020,Varun Das,Data & Analytics,Mumbai,2026,10,2026-10-01,176,0,0,0.0
+E021,Manoj Verma,Tax Technology,Mumbai,2025,1,2025-01-01,184,15.0,15.0,8.2
+E021,Manoj Verma,Tax Technology,Mumbai,2025,2,2025-02-01,160,69.0,63.0,39.4
+E021,Manoj Verma,Tax Technology,Mumbai,2025,3,2025-03-01,168,78.0,78.0,46.4
+E021,Manoj Verma,Tax Technology,Mumbai,2025,4,2025-04-01,176,90.5,84.5,48.0
+E021,Manoj Verma,Tax Technology,Mumbai,2025,5,2025-05-01,176,130.0,114.0,64.8
+E021,Manoj Verma,Tax Technology,Mumbai,2025,6,2025-06-01,168,127.0,117.5,69.9
+E021,Manoj Verma,Tax Technology,Mumbai,2025,7,2025-07-01,184,136.0,127.5,69.3
+E021,Manoj Verma,Tax Technology,Mumbai,2025,8,2025-08-01,168,107.0,93.0,55.4
+E021,Manoj Verma,Tax Technology,Mumbai,2025,9,2025-09-01,176,125.0,115.0,65.3
+E021,Manoj Verma,Tax Technology,Mumbai,2025,10,2025-10-01,184,117.0,96.0,52.2
+E021,Manoj Verma,Tax Technology,Mumbai,2025,11,2025-11-01,160,85.0,73.0,45.6
+E021,Manoj Verma,Tax Technology,Mumbai,2025,12,2025-12-01,184,106.5,103.5,56.3
+E021,Manoj Verma,Tax Technology,Mumbai,2026,1,2026-01-01,176,125.5,112.5,63.9
+E021,Manoj Verma,Tax Technology,Mumbai,2026,2,2026-02-01,160,77.5,74.5,46.6
+E021,Manoj Verma,Tax Technology,Mumbai,2026,3,2026-03-01,176,103.5,93.5,53.1
+E021,Manoj Verma,Tax Technology,Mumbai,2026,4,2026-04-01,176,114.0,102.5,58.2
+E021,Manoj Verma,Tax Technology,Mumbai,2026,5,2026-05-01,168,116.5,112.5,67.0
+E021,Manoj Verma,Tax Technology,Mumbai,2026,6,2026-06-01,176,90.0,86.0,48.9
+E021,Manoj Verma,Tax Technology,Mumbai,2026,7,2026-07-01,184,119.5,111.5,60.6
+E021,Manoj Verma,Tax Technology,Mumbai,2026,8,2026-08-01,168,106.5,99.0,58.9
+E021,Manoj Verma,Tax Technology,Mumbai,2026,9,2026-09-01,176,118.0,109.5,62.2
+E021,Manoj Verma,Tax Technology,Mumbai,2026,10,2026-10-01,176,102.0,91.5,52.0
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,1,2025-01-01,184,5.0,5.0,2.7
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,2,2025-02-01,160,32.0,21.0,13.1
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,3,2025-03-01,168,35.5,35.5,21.1
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,4,2025-04-01,176,52.0,45.0,25.6
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,5,2025-05-01,176,49.0,49.0,27.8
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,6,2025-06-01,168,72.0,72.0,42.9
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,7,2025-07-01,184,130.0,119.5,64.9
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,8,2025-08-01,168,138.0,132.0,78.6
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,9,2025-09-01,176,110.5,99.5,56.5
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,10,2025-10-01,184,138.5,138.5,75.3
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,11,2025-11-01,160,116.0,107.5,67.2
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2025,12,2025-12-01,184,144.5,139.5,75.8
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,1,2026-01-01,176,159.5,142.0,80.7
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,2,2026-02-01,160,113.5,113.5,70.9
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,3,2026-03-01,176,153.5,143.5,81.5
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,4,2026-04-01,176,115.5,87.5,49.7
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,5,2026-05-01,168,99.5,88.5,52.7
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,6,2026-06-01,176,116.5,109.5,62.2
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,7,2026-07-01,184,162.5,145.5,79.1
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,8,2026-08-01,168,103.0,100.0,59.5
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,9,2026-09-01,176,103.0,98.5,56.0
+E022,Pooja Kumar,Finance Transformation,Hyderabad,2026,10,2026-10-01,176,117.0,99.0,56.3
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,1,2025-01-01,184,59.5,49.5,26.9
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,2,2025-02-01,160,120.0,120.0,75.0
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,3,2025-03-01,168,123.0,123.0,73.2
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,4,2025-04-01,176,148.5,139.5,79.3
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,5,2025-05-01,176,160.0,145.0,82.4
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,6,2025-06-01,168,138.0,136.0,81.0
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,7,2025-07-01,184,151.5,143.5,78.0
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,8,2025-08-01,168,143.5,127.5,75.9
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,9,2025-09-01,176,153.5,116.5,66.2
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,10,2025-10-01,184,65.5,51.5,28.0
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,11,2025-11-01,160,69.5,64.5,40.3
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2025,12,2025-12-01,184,37.0,37.0,20.1
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,1,2026-01-01,176,57.0,57.0,32.4
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,2,2026-02-01,160,48.5,48.5,30.3
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,3,2026-03-01,176,59.0,57.0,32.4
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,4,2026-04-01,176,109.0,109.0,61.9
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,5,2026-05-01,168,114.0,101.0,60.1
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,6,2026-06-01,176,142.0,119.0,67.6
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,7,2026-07-01,184,154.0,148.0,80.4
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,8,2026-08-01,168,171.5,171.5,102.1
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,9,2026-09-01,176,134.0,120.0,68.2
+E023,Kavya Mehta,Risk Advisory,Delhi NCR,2026,10,2026-10-01,176,128.0,100.5,57.1
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,3,2025-03-01,168,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,4,2025-04-01,176,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,5,2025-05-01,176,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,6,2025-06-01,168,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,7,2025-07-01,184,15.5,15.5,8.4
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,8,2025-08-01,168,52.0,49.0,29.2
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,9,2025-09-01,176,45.0,41.0,23.3
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,10,2025-10-01,184,70.0,66.0,35.9
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,11,2025-11-01,160,84.0,73.0,45.6
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2025,12,2025-12-01,184,76.5,76.5,41.6
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,1,2026-01-01,176,71.0,64.0,36.4
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,2,2026-02-01,160,71.0,58.0,36.3
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,3,2026-03-01,176,99.0,86.5,49.1
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,4,2026-04-01,176,99.5,93.5,53.1
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,5,2026-05-01,168,63.0,52.5,31.3
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,6,2026-06-01,176,80.0,80.0,45.5
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,7,2026-07-01,184,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,8,2026-08-01,168,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,9,2026-09-01,176,0,0,0.0
+E024,Harsha Joshi,Finance Transformation,Bengaluru,2026,10,2026-10-01,176,0,0,0.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,2,2025-02-01,160,0,0,0.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,4,2025-04-01,176,21.0,14.0,8.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,5,2025-05-01,176,100.0,88.0,50.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,6,2025-06-01,168,100.5,96.5,57.4
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,7,2025-07-01,184,101.0,91.5,49.7
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,8,2025-08-01,168,110.0,105.0,62.5
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,9,2025-09-01,176,160.0,151.0,85.8
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,10,2025-10-01,184,133.0,133.0,72.3
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,11,2025-11-01,160,142.0,103.0,64.4
+E025,Diya Mehta,Risk Advisory,Hyderabad,2025,12,2025-12-01,184,178.5,147.0,79.9
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,1,2026-01-01,176,182.0,146.0,83.0
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,2,2026-02-01,160,159.0,147.0,91.9
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,3,2026-03-01,176,178.0,166.0,94.3
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,4,2026-04-01,176,164.5,146.5,83.2
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,5,2026-05-01,168,157.5,150.5,89.6
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,6,2026-06-01,176,150.0,144.0,81.8
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,7,2026-07-01,184,161.0,141.0,76.6
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,8,2026-08-01,168,148.5,134.5,80.1
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,9,2026-09-01,176,120.5,120.5,68.5
+E025,Diya Mehta,Risk Advisory,Hyderabad,2026,10,2026-10-01,176,72.0,68.0,38.6
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,1,2025-01-01,184,10.0,10.0,5.4
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,2,2025-02-01,160,47.0,44.0,27.5
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,3,2025-03-01,168,56.5,48.5,28.9
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,4,2025-04-01,176,117.5,109.5,62.2
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,5,2025-05-01,176,84.5,79.5,45.2
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,6,2025-06-01,168,81.0,58.0,34.5
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,7,2025-07-01,184,109.5,99.0,53.8
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,8,2025-08-01,168,47.0,47.0,28.0
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,9,2025-09-01,176,87.5,84.5,48.0
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,10,2025-10-01,184,111.0,82.5,44.8
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,11,2025-11-01,160,116.5,116.5,72.8
+E026,Diya Mehta,Data & Analytics,Bengaluru,2025,12,2025-12-01,184,167.0,155.0,84.2
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,94.5,83.5,47.4
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,116.0,106.5,66.6
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,139.5,132.5,75.3
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,107.5,107.5,61.1
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,104.0,102.0,60.7
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,76.0,71.0,40.3
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,118.5,103.5,56.3
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,105.0,91.5,54.5
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,129.0,117.0,66.5
+E026,Diya Mehta,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,133.0,123.0,69.9
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2025,12,2025-12-01,184,0,0,0.0
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,4.0,4.0,2.3
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,40.5,33.5,20.9
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,52.0,52.0,29.5
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,72.0,72.0,40.9
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,56.0,45.0,26.8
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,136.5,122.5,69.6
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,127.5,115.5,62.8
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,123.0,114.0,67.9
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,111.5,105.5,59.9
+E027,Vihaan Patel,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,111.5,103.5,58.8
+E028,Arjun Das,Tax Technology,Hyderabad,2025,1,2025-01-01,184,4.0,4.0,2.2
+E028,Arjun Das,Tax Technology,Hyderabad,2025,2,2025-02-01,160,59.0,45.5,28.4
+E028,Arjun Das,Tax Technology,Hyderabad,2025,3,2025-03-01,168,79.5,79.5,47.3
+E028,Arjun Das,Tax Technology,Hyderabad,2025,4,2025-04-01,176,96.0,91.5,52.0
+E028,Arjun Das,Tax Technology,Hyderabad,2025,5,2025-05-01,176,66.0,54.0,30.7
+E028,Arjun Das,Tax Technology,Hyderabad,2025,6,2025-06-01,168,70.5,64.5,38.4
+E028,Arjun Das,Tax Technology,Hyderabad,2025,7,2025-07-01,184,97.5,93.5,50.8
+E028,Arjun Das,Tax Technology,Hyderabad,2025,8,2025-08-01,168,122.5,98.5,58.6
+E028,Arjun Das,Tax Technology,Hyderabad,2025,9,2025-09-01,176,100.5,96.5,54.8
+E028,Arjun Das,Tax Technology,Hyderabad,2025,10,2025-10-01,184,69.5,66.5,36.1
+E028,Arjun Das,Tax Technology,Hyderabad,2025,11,2025-11-01,160,44.5,38.5,24.1
+E028,Arjun Das,Tax Technology,Hyderabad,2025,12,2025-12-01,184,0,0,0.0
+E028,Arjun Das,Tax Technology,Hyderabad,2026,1,2026-01-01,176,0,0,0.0
+E028,Arjun Das,Tax Technology,Hyderabad,2026,2,2026-02-01,160,0,0,0.0
+E028,Arjun Das,Tax Technology,Hyderabad,2026,3,2026-03-01,176,0,0,0.0
+E028,Arjun Das,Tax Technology,Hyderabad,2026,4,2026-04-01,176,0,0,0.0
+E028,Arjun Das,Tax Technology,Hyderabad,2026,5,2026-05-01,168,0,0,0.0
+E028,Arjun Das,Tax Technology,Hyderabad,2026,6,2026-06-01,176,56.0,56.0,31.8
+E028,Arjun Das,Tax Technology,Hyderabad,2026,7,2026-07-01,184,79.5,69.5,37.8
+E028,Arjun Das,Tax Technology,Hyderabad,2026,8,2026-08-01,168,33.0,27.0,16.1
+E028,Arjun Das,Tax Technology,Hyderabad,2026,9,2026-09-01,176,47.0,47.0,26.7
+E028,Arjun Das,Tax Technology,Hyderabad,2026,10,2026-10-01,176,55.0,42.5,24.1
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,1,2025-01-01,184,0,0,0.0
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,2,2025-02-01,160,5.0,5.0,3.1
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,3,2025-03-01,168,49.0,47.0,28.0
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,4,2025-04-01,176,58.0,58.0,33.0
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,5,2025-05-01,176,36.0,25.0,14.2
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,6,2025-06-01,168,59.5,59.5,35.4
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,7,2025-07-01,184,134.0,117.5,63.9
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,8,2025-08-01,168,147.5,134.5,80.1
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,9,2025-09-01,176,159.0,156.0,88.6
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,10,2025-10-01,184,178.5,161.5,87.8
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,11,2025-11-01,160,131.5,125.5,78.4
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2025,12,2025-12-01,184,145.0,137.0,74.5
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,131.5,131.5,74.7
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,127.0,125.0,78.1
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,123.0,123.0,69.9
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,129.5,118.5,67.3
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,115.5,100.5,59.8
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,61.5,57.0,32.4
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,103.0,97.0,52.7
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,106.5,103.5,61.6
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,99.0,80.0,45.5
+E029,Divya Kumar,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,85.0,85.0,48.3
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,1,2025-01-01,184,0,0,0.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,2,2025-02-01,160,0,0,0.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,3,2025-03-01,168,31.0,18.0,10.7
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,4,2025-04-01,176,70.5,66.0,37.5
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,5,2025-05-01,176,100.5,100.5,57.1
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,6,2025-06-01,168,85.5,85.5,50.9
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,7,2025-07-01,184,88.5,78.5,42.7
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,8,2025-08-01,168,104.0,86.0,51.2
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,9,2025-09-01,176,133.5,133.5,75.9
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,10,2025-10-01,184,124.0,99.0,53.8
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,11,2025-11-01,160,145.0,136.5,85.3
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2025,12,2025-12-01,184,148.0,129.0,70.1
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,1,2026-01-01,176,136.5,128.5,73.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,2,2026-02-01,160,132.5,107.5,67.2
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,3,2026-03-01,176,156.5,156.5,88.9
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,4,2026-04-01,176,135.0,125.0,71.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,5,2026-05-01,168,110.0,87.5,52.1
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,6,2026-06-01,176,141.0,132.0,75.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,7,2026-07-01,184,150.0,126.0,68.5
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,8,2026-08-01,168,157.5,139.5,83.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,9,2026-09-01,176,153.0,132.0,75.0
+E030,Manoj Sharma,Finance Transformation,Bengaluru,2026,10,2026-10-01,176,155.5,144.5,82.1
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,1,2025-01-01,184,0,0,0.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,2,2025-02-01,160,0,0,0.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,3,2025-03-01,168,0,0,0.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,4,2025-04-01,176,0,0,0.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,5,2025-05-01,176,8.0,0.0,0.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,6,2025-06-01,168,61.5,58.5,34.8
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,7,2025-07-01,184,37.0,35.0,19.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,8,2025-08-01,168,40.0,32.0,19.0
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,9,2025-09-01,176,67.0,55.0,31.3
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,10,2025-10-01,184,39.5,27.5,14.9
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,11,2025-11-01,160,53.0,53.0,33.1
+E031,Swathi Mehta,Finance Transformation,Mumbai,2025,12,2025-12-01,184,82.0,82.0,44.6
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,1,2026-01-01,176,111.0,100.0,56.8
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,2,2026-02-01,160,111.0,107.0,66.9
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,3,2026-03-01,176,112.5,112.5,63.9
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,4,2026-04-01,176,148.0,145.0,82.4
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,5,2026-05-01,168,141.0,129.5,77.1
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,6,2026-06-01,176,137.0,127.5,72.4
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,7,2026-07-01,184,145.5,131.5,71.5
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,8,2026-08-01,168,146.0,125.0,74.4
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,9,2026-09-01,176,150.5,147.5,83.8
+E031,Swathi Mehta,Finance Transformation,Mumbai,2026,10,2026-10-01,176,119.5,105.5,59.9
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,3,2025-03-01,168,99.0,94.5,56.3
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,4,2025-04-01,176,91.5,80.0,45.5
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,5,2025-05-01,176,92.0,84.0,47.7
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,6,2025-06-01,168,127.0,121.0,72.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,7,2025-07-01,184,160.0,145.0,78.8
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,8,2025-08-01,168,142.0,142.0,84.5
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,9,2025-09-01,176,136.0,118.0,67.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,10,2025-10-01,184,119.5,119.5,64.9
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,11,2025-11-01,160,71.5,64.5,40.3
+E032,Aarav Mehta,Tax Technology,Mumbai,2025,12,2025-12-01,184,108.5,108.5,59.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,1,2026-01-01,176,77.5,61.0,34.7
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,2,2026-02-01,160,80.0,74.0,46.3
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,3,2026-03-01,176,100.0,100.0,56.8
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,4,2026-04-01,176,90.0,87.0,49.4
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,5,2026-05-01,168,0,0,0.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,6,2026-06-01,176,0,0,0.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,7,2026-07-01,184,0,0,0.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,8,2026-08-01,168,0,0,0.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,9,2026-09-01,176,0,0,0.0
+E032,Aarav Mehta,Tax Technology,Mumbai,2026,10,2026-10-01,176,0,0,0.0
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,0,0,0.0
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,0,0,0.0
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,0,0,0.0
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,0,0,0.0
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,24.0,24.0,14.3
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,76.0,68.0,38.6
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,123.5,111.5,60.6
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,125.5,125.5,74.7
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,108.5,95.5,54.3
+E033,Sneha Chowdary,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,100.5,92.5,52.6
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,4,2025-04-01,176,0,0,0.0
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,5,2025-05-01,176,0,0,0.0
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,6,2025-06-01,168,4.5,4.5,2.7
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,7,2025-07-01,184,60.0,47.5,25.8
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,8,2025-08-01,168,67.0,60.0,35.7
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,9,2025-09-01,176,76.5,76.5,43.5
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,10,2025-10-01,184,44.5,29.5,16.0
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,11,2025-11-01,160,58.0,58.0,36.3
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2025,12,2025-12-01,184,61.0,61.0,33.2
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,1,2026-01-01,176,77.0,71.0,40.3
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,2,2026-02-01,160,73.5,60.5,37.8
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,3,2026-03-01,176,78.0,72.0,40.9
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,4,2026-04-01,176,116.5,100.0,56.8
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,5,2026-05-01,168,89.5,84.5,50.3
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,6,2026-06-01,176,114.5,114.5,65.1
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,7,2026-07-01,184,168.5,164.5,89.4
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,8,2026-08-01,168,151.5,134.5,80.1
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,9,2026-09-01,176,150.5,132.5,75.3
+E034,Harsha Mehta,Finance Transformation,Hyderabad,2026,10,2026-10-01,176,165.0,155.0,88.1
+E035,Naveen Singh,Tax Technology,Mumbai,2025,11,2025-11-01,160,0,0,0.0
+E035,Naveen Singh,Tax Technology,Mumbai,2025,12,2025-12-01,184,57.5,57.5,31.3
+E035,Naveen Singh,Tax Technology,Mumbai,2026,1,2026-01-01,176,102.0,87.0,49.4
+E035,Naveen Singh,Tax Technology,Mumbai,2026,2,2026-02-01,160,78.5,66.0,41.3
+E035,Naveen Singh,Tax Technology,Mumbai,2026,3,2026-03-01,176,116.0,112.0,63.6
+E035,Naveen Singh,Tax Technology,Mumbai,2026,4,2026-04-01,176,94.0,72.5,41.2
+E035,Naveen Singh,Tax Technology,Mumbai,2026,5,2026-05-01,168,103.0,100.0,59.5
+E035,Naveen Singh,Tax Technology,Mumbai,2026,6,2026-06-01,176,142.5,142.5,81.0
+E035,Naveen Singh,Tax Technology,Mumbai,2026,7,2026-07-01,184,130.0,124.0,67.4
+E035,Naveen Singh,Tax Technology,Mumbai,2026,8,2026-08-01,168,134.0,111.5,66.4
+E035,Naveen Singh,Tax Technology,Mumbai,2026,9,2026-09-01,176,131.0,115.0,65.3
+E035,Naveen Singh,Tax Technology,Mumbai,2026,10,2026-10-01,176,129.0,115.0,65.3
+E036,Divya Patel,Tax Technology,Mumbai,2025,11,2025-11-01,160,48.0,42.0,26.3
+E036,Divya Patel,Tax Technology,Mumbai,2025,12,2025-12-01,184,59.5,59.5,32.3
+E036,Divya Patel,Tax Technology,Mumbai,2026,1,2026-01-01,176,55.0,55.0,31.3
+E036,Divya Patel,Tax Technology,Mumbai,2026,2,2026-02-01,160,44.5,37.5,23.4
+E036,Divya Patel,Tax Technology,Mumbai,2026,3,2026-03-01,176,83.0,64.0,36.4
+E036,Divya Patel,Tax Technology,Mumbai,2026,4,2026-04-01,176,97.0,87.5,49.7
+E036,Divya Patel,Tax Technology,Mumbai,2026,5,2026-05-01,168,101.0,96.5,57.4
+E036,Divya Patel,Tax Technology,Mumbai,2026,6,2026-06-01,176,116.0,111.0,63.1
+E036,Divya Patel,Tax Technology,Mumbai,2026,7,2026-07-01,184,105.0,84.0,45.7
+E036,Divya Patel,Tax Technology,Mumbai,2026,8,2026-08-01,168,80.5,76.5,45.5
+E036,Divya Patel,Tax Technology,Mumbai,2026,9,2026-09-01,176,98.5,98.5,56.0
+E036,Divya Patel,Tax Technology,Mumbai,2026,10,2026-10-01,176,57.0,51.0,29.0
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,1,2025-01-01,184,85.0,85.0,46.2
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,2,2025-02-01,160,100.0,100.0,62.5
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,3,2025-03-01,168,75.0,67.0,39.9
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,4,2025-04-01,176,98.5,83.5,47.4
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,5,2025-05-01,176,109.0,105.0,59.7
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,6,2025-06-01,168,88.0,82.0,48.8
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,7,2025-07-01,184,95.5,80.0,43.5
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,8,2025-08-01,168,67.5,63.5,37.8
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,9,2025-09-01,176,80.0,74.0,42.0
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,10,2025-10-01,184,78.0,78.0,42.4
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,11,2025-11-01,160,31.0,20.5,12.8
+E037,Divya Joshi,Risk Advisory,Hyderabad,2025,12,2025-12-01,184,36.0,34.0,18.5
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,1,2026-01-01,176,86.0,72.0,40.9
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,2,2026-02-01,160,121.0,111.0,69.4
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,3,2026-03-01,176,140.5,135.5,77.0
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,4,2026-04-01,176,138.5,124.5,70.7
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,5,2026-05-01,168,135.0,124.5,74.1
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,6,2026-06-01,176,134.5,132.5,75.3
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,7,2026-07-01,184,163.5,153.5,83.4
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,8,2026-08-01,168,111.5,104.0,61.9
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,9,2026-09-01,176,123.0,113.0,64.2
+E037,Divya Joshi,Risk Advisory,Hyderabad,2026,10,2026-10-01,176,107.0,91.0,51.7
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,1,2025-01-01,184,21.0,21.0,11.4
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,2,2025-02-01,160,71.0,63.0,39.4
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,3,2025-03-01,168,91.0,91.0,54.2
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,4,2025-04-01,176,88.0,83.0,47.2
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,5,2025-05-01,176,83.0,83.0,47.2
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,6,2025-06-01,168,108.0,101.5,60.4
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,7,2025-07-01,184,154.0,138.0,75.0
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,8,2025-08-01,168,164.0,150.0,89.3
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,9,2025-09-01,176,160.5,158.5,90.1
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,10,2025-10-01,184,169.0,164.0,89.1
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,11,2025-11-01,160,127.5,112.5,70.3
+E038,Teja Naidu,Tax Technology,Delhi NCR,2025,12,2025-12-01,184,118.5,114.0,62.0
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,1,2026-01-01,176,145.0,145.0,82.4
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,2,2026-02-01,160,146.0,110.0,68.8
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,3,2026-03-01,176,129.5,129.5,73.6
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,4,2026-04-01,176,163.0,163.0,92.6
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,5,2026-05-01,168,139.5,134.5,80.1
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,6,2026-06-01,176,114.0,106.0,60.2
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,7,2026-07-01,184,142.0,122.0,66.3
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,8,2026-08-01,168,120.5,107.5,64.0
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,9,2026-09-01,176,116.0,87.0,49.4
+E038,Teja Naidu,Tax Technology,Delhi NCR,2026,10,2026-10-01,176,58.5,58.5,33.2
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,35.0,35.0,19.9
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,61.0,57.0,35.6
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,77.5,66.5,37.8
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,118.0,97.0,55.1
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,101.5,92.5,55.1
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,120.5,107.5,61.1
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,131.0,131.0,71.2
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,110.5,110.5,65.8
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,107.5,107.5,61.1
+E039,Kavya Reddy,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,108.5,96.5,54.8
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,0,0,0.0
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,4.0,4.0,2.3
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,78.0,76.0,43.2
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,60.0,55.5,33.0
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,68.0,64.0,36.4
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,95.0,95.0,51.6
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,76.0,54.5,32.4
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,52.0,42.0,23.9
+E040,Kavya Mehta,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,67.5,62.5,35.5
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,1,2025-01-01,184,0,0,0.0
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,2,2025-02-01,160,74.0,69.5,43.4
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,3,2025-03-01,168,83.0,83.0,49.4
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,4,2025-04-01,176,100.0,95.0,54.0
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,5,2025-05-01,176,106.0,87.0,49.4
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,6,2025-06-01,168,107.0,107.0,63.7
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,7,2025-07-01,184,115.5,106.5,57.9
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,8,2025-08-01,168,147.0,139.0,82.7
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,9,2025-09-01,176,171.0,156.0,88.6
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,10,2025-10-01,184,124.0,100.0,54.3
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,11,2025-11-01,160,141.5,139.5,87.2
+E041,Suresh Gupta,Tax Technology,Bengaluru,2025,12,2025-12-01,184,149.0,133.5,72.6
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,1,2026-01-01,176,132.0,119.0,67.6
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,2,2026-02-01,160,113.5,106.5,66.6
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,3,2026-03-01,176,147.0,139.0,79.0
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,4,2026-04-01,176,148.5,140.5,79.8
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,5,2026-05-01,168,83.0,81.0,48.2
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,6,2026-06-01,176,52.0,52.0,29.5
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,7,2026-07-01,184,5.0,0.0,0.0
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,8,2026-08-01,168,67.5,59.5,35.4
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,9,2026-09-01,176,61.5,61.5,34.9
+E041,Suresh Gupta,Tax Technology,Bengaluru,2026,10,2026-10-01,176,60.5,57.5,32.7
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,3,2025-03-01,168,18.0,18.0,10.7
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,4,2025-04-01,176,69.0,69.0,39.2
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,5,2025-05-01,176,137.0,130.0,73.9
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,6,2025-06-01,168,102.0,77.5,46.1
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,7,2025-07-01,184,114.5,114.5,62.2
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,8,2025-08-01,168,89.5,83.5,49.7
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,9,2025-09-01,176,111.0,103.0,58.5
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,10,2025-10-01,184,135.0,124.0,67.4
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,11,2025-11-01,160,99.5,87.5,54.7
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2025,12,2025-12-01,184,121.5,99.5,54.1
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,116.0,108.0,61.4
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,50.0,50.0,31.3
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,87.0,78.0,44.3
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,114.5,108.5,61.6
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,78.0,73.5,43.8
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,131.0,118.0,67.0
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,124.0,116.0,63.0
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,89.5,81.5,48.5
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,45.0,34.5,19.6
+E042,Aarav Iyer,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,61.5,54.5,31.0
+E043,Varun Joshi,Tax Technology,Delhi NCR,2025,12,2025-12-01,184,0,0,0.0
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,1,2026-01-01,176,0,0,0.0
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,2,2026-02-01,160,0,0,0.0
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,3,2026-03-01,176,24.5,20.5,11.6
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,4,2026-04-01,176,110.0,105.0,59.7
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,5,2026-05-01,168,112.5,96.5,57.4
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,6,2026-06-01,176,137.5,111.5,63.4
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,7,2026-07-01,184,163.0,133.0,72.3
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,8,2026-08-01,168,133.0,122.0,72.6
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,9,2026-09-01,176,151.0,136.0,77.3
+E043,Varun Joshi,Tax Technology,Delhi NCR,2026,10,2026-10-01,176,159.0,155.0,88.1
+E044,Rahul Rao,Data & Analytics,Bengaluru,2025,11,2025-11-01,160,0,0,0.0
+E044,Rahul Rao,Data & Analytics,Bengaluru,2025,12,2025-12-01,184,0,0,0.0
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,16.0,16.0,9.1
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,54.5,46.5,29.1
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,65.0,57.0,32.4
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,30.5,24.5,13.9
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,64.0,57.0,33.9
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,89.0,83.0,47.2
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,114.0,100.0,54.3
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,98.0,83.0,49.4
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,114.5,95.0,54.0
+E044,Rahul Rao,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,127.0,119.5,67.9
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,2,2025-02-01,160,0,0,0.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,4,2025-04-01,176,0,0,0.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,5,2025-05-01,176,0,0,0.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,6,2025-06-01,168,0,0,0.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,7,2025-07-01,184,71.5,60.5,32.9
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,8,2025-08-01,168,121.0,119.0,70.8
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,9,2025-09-01,176,125.5,121.0,68.8
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,10,2025-10-01,184,120.0,112.0,60.9
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,11,2025-11-01,160,97.0,84.0,52.5
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2025,12,2025-12-01,184,97.0,95.0,51.6
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,1,2026-01-01,176,94.0,83.5,47.4
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,2,2026-02-01,160,67.5,67.5,42.2
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,3,2026-03-01,176,68.5,66.5,37.8
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,4,2026-04-01,176,89.0,82.0,46.6
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,5,2026-05-01,168,120.5,106.0,63.1
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,6,2026-06-01,176,126.0,118.0,67.0
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,7,2026-07-01,184,140.5,127.5,69.3
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,8,2026-08-01,168,139.5,115.0,68.5
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,9,2026-09-01,176,135.0,129.0,73.3
+E045,Shreya Joshi,Finance Transformation,Hyderabad,2026,10,2026-10-01,176,128.0,128.0,72.7
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,1,2025-01-01,184,12.5,12.5,6.8
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,2,2025-02-01,160,37.5,32.5,20.3
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,3,2025-03-01,168,68.0,68.0,40.5
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,4,2025-04-01,176,125.5,109.5,62.2
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,5,2025-05-01,176,122.5,111.5,63.4
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,6,2025-06-01,168,147.5,147.5,87.8
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,7,2025-07-01,184,141.0,112.0,60.9
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,8,2025-08-01,168,155.0,129.0,76.8
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,9,2025-09-01,176,164.0,159.0,90.3
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,10,2025-10-01,184,135.5,133.5,72.6
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,11,2025-11-01,160,126.5,107.5,67.2
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2025,12,2025-12-01,184,127.5,121.5,66.0
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,1,2026-01-01,176,108.0,97.5,55.4
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,2,2026-02-01,160,68.5,68.5,42.8
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,3,2026-03-01,176,42.0,34.5,19.6
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,4,2026-04-01,176,33.0,25.5,14.5
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,5,2026-05-01,168,0,0,0.0
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,6,2026-06-01,176,101.5,99.5,56.5
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,7,2026-07-01,184,97.5,97.5,53.0
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,8,2026-08-01,168,101.0,89.0,53.0
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,9,2026-09-01,176,88.0,88.0,50.0
+E046,Shreya Singh,Data & Analytics,Delhi NCR,2026,10,2026-10-01,176,79.0,75.0,42.6
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,1,2025-01-01,184,0,0,0.0
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,2,2025-02-01,160,0,0,0.0
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,3,2025-03-01,168,13.0,11.0,6.5
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,4,2025-04-01,176,47.0,45.0,25.6
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,5,2025-05-01,176,43.0,40.0,22.7
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,6,2025-06-01,168,58.5,52.5,31.3
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,7,2025-07-01,184,65.0,60.0,32.6
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,8,2025-08-01,168,104.5,102.5,61.0
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,9,2025-09-01,176,101.5,95.5,54.3
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,10,2025-10-01,184,118.0,110.0,59.8
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,11,2025-11-01,160,105.0,96.0,60.0
+E047,Shreya Verma,Data & Analytics,Bengaluru,2025,12,2025-12-01,184,137.0,137.0,74.5
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,121.5,119.5,67.9
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,98.5,85.0,53.1
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,125.0,112.0,63.6
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,146.5,138.5,78.7
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,105.0,88.0,52.4
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,84.5,84.5,48.0
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,95.0,88.0,47.8
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,106.0,89.0,53.0
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,116.5,97.5,55.4
+E047,Shreya Verma,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,73.0,67.0,38.1
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,4,2025-04-01,176,0,0,0.0
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,5,2025-05-01,176,52.5,48.0,27.3
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,6,2025-06-01,168,110.0,104.0,61.9
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,7,2025-07-01,184,80.5,66.5,36.1
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,8,2025-08-01,168,68.0,68.0,40.5
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,9,2025-09-01,176,102.5,98.0,55.7
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,10,2025-10-01,184,45.0,45.0,24.5
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,11,2025-11-01,160,43.0,32.0,20.0
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2025,12,2025-12-01,184,99.0,92.0,50.0
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,1,2026-01-01,176,126.5,119.5,67.9
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,2,2026-02-01,160,94.5,86.0,53.8
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,3,2026-03-01,176,132.5,111.0,63.1
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,4,2026-04-01,176,140.5,140.5,79.8
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,5,2026-05-01,168,113.5,113.5,67.6
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,6,2026-06-01,176,111.0,107.0,60.8
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,7,2026-07-01,184,110.0,99.5,54.1
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,8,2026-08-01,168,111.0,111.0,66.1
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,9,2026-09-01,176,125.5,119.5,67.9
+E048,Swathi Sharma,Data & Analytics,Hyderabad,2026,10,2026-10-01,176,116.0,109.0,61.9
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,1,2025-01-01,184,55.0,50.5,27.4
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,2,2025-02-01,160,56.0,52.0,32.5
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,3,2025-03-01,168,106.5,106.5,63.4
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,4,2025-04-01,176,86.0,81.5,46.3
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,5,2025-05-01,176,88.0,74.0,42.0
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,6,2025-06-01,168,69.0,57.0,33.9
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,7,2025-07-01,184,53.5,53.5,29.1
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,8,2025-08-01,168,54.0,42.5,25.3
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,9,2025-09-01,176,63.5,57.5,32.7
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,10,2025-10-01,184,68.5,64.0,34.8
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,11,2025-11-01,160,86.0,80.0,50.0
+E049,Arjun Patel,Data & Analytics,Mumbai,2025,12,2025-12-01,184,99.0,88.5,48.1
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,1,2026-01-01,176,108.5,97.0,55.1
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,2,2026-02-01,160,75.5,60.5,37.8
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,3,2026-03-01,176,115.0,101.0,57.4
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,4,2026-04-01,176,127.5,112.5,63.9
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,5,2026-05-01,168,123.0,112.0,66.7
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,6,2026-06-01,176,118.0,118.0,67.0
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,7,2026-07-01,184,125.0,115.0,62.5
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,8,2026-08-01,168,136.0,134.0,79.8
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,9,2026-09-01,176,113.0,101.0,57.4
+E049,Arjun Patel,Data & Analytics,Mumbai,2026,10,2026-10-01,176,127.0,119.0,67.6
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2025,11,2025-11-01,160,76.5,73.5,45.9
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2025,12,2025-12-01,184,111.0,108.0,58.7
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,1,2026-01-01,176,119.0,105.0,59.7
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,2,2026-02-01,160,79.5,67.5,42.2
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,3,2026-03-01,176,125.0,104.5,59.4
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,4,2026-04-01,176,154.0,145.0,82.4
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,5,2026-05-01,168,118.5,112.5,67.0
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,6,2026-06-01,176,119.0,103.5,58.8
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,7,2026-07-01,184,119.0,111.5,60.6
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,8,2026-08-01,168,95.5,95.5,56.8
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,9,2026-09-01,176,102.0,77.0,43.8
+E050,Lakshmi Reddy,Tax Technology,Hyderabad,2026,10,2026-10-01,176,70.5,70.5,40.1
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,2,2025-02-01,160,53.5,51.5,32.2
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,3,2025-03-01,168,19.0,19.0,11.3
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,4,2025-04-01,176,45.0,45.0,25.6
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,5,2025-05-01,176,70.5,61.5,34.9
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,6,2025-06-01,168,40.0,40.0,23.8
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,7,2025-07-01,184,58.0,58.0,31.5
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,8,2025-08-01,168,114.5,114.5,68.2
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,9,2025-09-01,176,146.5,131.5,74.7
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,10,2025-10-01,184,113.0,108.0,58.7
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,11,2025-11-01,160,129.5,119.5,74.7
+E051,Ishita Singh,Data & Analytics,Hyderabad,2025,12,2025-12-01,184,154.5,139.5,75.8
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,1,2026-01-01,176,129.0,124.0,70.5
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,2,2026-02-01,160,125.5,111.5,69.7
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,3,2026-03-01,176,137.5,127.5,72.4
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,4,2026-04-01,176,140.5,132.5,75.3
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,5,2026-05-01,168,79.5,72.5,43.2
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,6,2026-06-01,176,130.5,115.5,65.6
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,7,2026-07-01,184,134.5,115.5,62.8
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,8,2026-08-01,168,130.5,126.5,75.3
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,9,2026-09-01,176,114.5,105.0,59.7
+E051,Ishita Singh,Data & Analytics,Hyderabad,2026,10,2026-10-01,176,97.0,97.0,55.1
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,1,2025-01-01,184,0,0,0.0
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,2,2025-02-01,160,0,0,0.0
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,3,2025-03-01,168,0,0,0.0
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,4,2025-04-01,176,75.5,71.0,40.3
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,5,2025-05-01,176,61.5,61.5,34.9
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,6,2025-06-01,168,74.5,72.5,43.2
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,7,2025-07-01,184,116.5,112.5,61.1
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,8,2025-08-01,168,81.0,77.0,45.8
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,9,2025-09-01,176,90.5,82.5,46.9
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,10,2025-10-01,184,122.0,92.0,50.0
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,11,2025-11-01,160,93.0,85.0,53.1
+E052,Varun Joshi,Finance Transformation,Hyderabad,2025,12,2025-12-01,184,134.5,127.5,69.3
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,1,2026-01-01,176,126.0,104.0,59.1
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,2,2026-02-01,160,133.5,113.5,70.9
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,3,2026-03-01,176,137.5,125.0,71.0
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,4,2026-04-01,176,133.5,126.5,71.9
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,5,2026-05-01,168,148.5,135.5,80.7
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,6,2026-06-01,176,114.0,99.0,56.3
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,7,2026-07-01,184,68.0,61.0,33.2
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,8,2026-08-01,168,75.5,75.5,44.9
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,9,2026-09-01,176,68.5,59.5,33.8
+E052,Varun Joshi,Finance Transformation,Hyderabad,2026,10,2026-10-01,176,52.0,52.0,29.5
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,5,2025-05-01,176,0,0,0.0
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,6,2025-06-01,168,0,0,0.0
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,7,2025-07-01,184,24.5,24.5,13.3
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,8,2025-08-01,168,41.0,35.0,20.8
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,9,2025-09-01,176,50.5,46.0,26.1
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,10,2025-10-01,184,63.0,57.0,31.0
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,11,2025-11-01,160,92.0,88.0,55.0
+E053,Varun Joshi,Data & Analytics,Hyderabad,2025,12,2025-12-01,184,107.0,107.0,58.2
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,1,2026-01-01,176,134.5,125.0,71.0
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,2,2026-02-01,160,113.5,107.5,67.2
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,3,2026-03-01,176,139.5,131.5,74.7
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,4,2026-04-01,176,118.5,112.5,63.9
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,5,2026-05-01,168,145.5,133.5,79.5
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,6,2026-06-01,176,142.5,128.5,73.0
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,7,2026-07-01,184,148.5,141.5,76.9
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,8,2026-08-01,168,137.5,113.5,67.6
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,9,2026-09-01,176,162.5,152.5,86.6
+E053,Varun Joshi,Data & Analytics,Hyderabad,2026,10,2026-10-01,176,153.5,137.0,77.8
+E054,Diya Nair,Data & Analytics,Mumbai,2026,1,2026-01-01,176,48.0,48.0,27.3
+E054,Diya Nair,Data & Analytics,Mumbai,2026,2,2026-02-01,160,51.5,51.5,32.2
+E054,Diya Nair,Data & Analytics,Mumbai,2026,3,2026-03-01,176,24.5,24.5,13.9
+E054,Diya Nair,Data & Analytics,Mumbai,2026,4,2026-04-01,176,72.5,66.5,37.8
+E054,Diya Nair,Data & Analytics,Mumbai,2026,5,2026-05-01,168,99.0,99.0,58.9
+E054,Diya Nair,Data & Analytics,Mumbai,2026,6,2026-06-01,176,99.5,96.5,54.8
+E054,Diya Nair,Data & Analytics,Mumbai,2026,7,2026-07-01,184,118.5,100.0,54.3
+E054,Diya Nair,Data & Analytics,Mumbai,2026,8,2026-08-01,168,117.0,98.0,58.3
+E054,Diya Nair,Data & Analytics,Mumbai,2026,9,2026-09-01,176,145.5,132.5,75.3
+E054,Diya Nair,Data & Analytics,Mumbai,2026,10,2026-10-01,176,116.5,108.0,61.4
+E055,Priya Mehta,Finance Transformation,Mumbai,2025,7,2025-07-01,184,42.5,42.5,23.1
+E055,Priya Mehta,Finance Transformation,Mumbai,2025,8,2025-08-01,168,62.5,62.5,37.2
+E055,Priya Mehta,Finance Transformation,Mumbai,2025,9,2025-09-01,176,114.0,109.5,62.2
+E055,Priya Mehta,Finance Transformation,Mumbai,2025,10,2025-10-01,184,123.5,110.5,60.1
+E055,Priya Mehta,Finance Transformation,Mumbai,2025,11,2025-11-01,160,135.5,121.5,75.9
+E055,Priya Mehta,Finance Transformation,Mumbai,2025,12,2025-12-01,184,113.0,85.0,46.2
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,1,2026-01-01,176,118.0,113.0,64.2
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,2,2026-02-01,160,109.5,90.0,56.3
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,3,2026-03-01,176,111.5,91.5,52.0
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,4,2026-04-01,176,137.0,128.0,72.7
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,5,2026-05-01,168,135.0,131.0,78.0
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,6,2026-06-01,176,69.5,66.5,37.8
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,7,2026-07-01,184,53.5,41.0,22.3
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,8,2026-08-01,168,49.0,44.5,26.5
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,9,2026-09-01,176,22.0,12.0,6.8
+E055,Priya Mehta,Finance Transformation,Mumbai,2026,10,2026-10-01,176,0,0,0.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,1,2025-01-01,184,0,0,0.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,2,2025-02-01,160,0,0,0.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,3,2025-03-01,168,0,0,0.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,4,2025-04-01,176,0,0,0.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,5,2025-05-01,176,0,0,0.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,6,2025-06-01,168,43.0,43.0,25.6
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,7,2025-07-01,184,49.5,49.5,26.9
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,8,2025-08-01,168,96.0,81.5,48.5
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,9,2025-09-01,176,116.0,108.5,61.6
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,10,2025-10-01,184,122.5,108.0,58.7
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,11,2025-11-01,160,139.0,127.0,79.4
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2025,12,2025-12-01,184,122.0,122.0,66.3
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,1,2026-01-01,176,123.5,117.5,66.8
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,2,2026-02-01,160,104.0,102.0,63.8
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,3,2026-03-01,176,114.5,110.5,62.8
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,4,2026-04-01,176,123.5,112.0,63.6
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,5,2026-05-01,168,91.0,77.0,45.8
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,6,2026-06-01,176,45.5,41.0,23.3
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,7,2026-07-01,184,108.0,93.0,50.5
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,8,2026-08-01,168,139.0,116.0,69.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,9,2026-09-01,176,137.5,128.5,73.0
+E056,Karthik Reddy,Finance Transformation,Delhi NCR,2026,10,2026-10-01,176,113.0,100.0,56.8
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,3,2026-03-01,176,10.5,10.5,6.0
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,4,2026-04-01,176,94.0,83.5,47.4
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,5,2026-05-01,168,117.5,101.5,60.4
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,6,2026-06-01,176,84.0,84.0,47.7
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,7,2026-07-01,184,108.5,92.0,50.0
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,8,2026-08-01,168,75.5,68.5,40.8
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,9,2026-09-01,176,36.0,36.0,20.5
+E057,Rohan Sharma,Finance Transformation,Mumbai,2026,10,2026-10-01,176,70.0,51.0,29.0
+E058,Anjali Reddy,Risk Advisory,Mumbai,2025,8,2025-08-01,168,0,0,0.0
+E058,Anjali Reddy,Risk Advisory,Mumbai,2025,9,2025-09-01,176,37.5,37.5,21.3
+E058,Anjali Reddy,Risk Advisory,Mumbai,2025,10,2025-10-01,184,34.5,34.5,18.8
+E058,Anjali Reddy,Risk Advisory,Mumbai,2025,11,2025-11-01,160,38.5,34.5,21.6
+E058,Anjali Reddy,Risk Advisory,Mumbai,2025,12,2025-12-01,184,50.0,50.0,27.2
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,1,2026-01-01,176,34.0,34.0,19.3
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,2,2026-02-01,160,0,0,0.0
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,3,2026-03-01,176,13.0,8.0,4.5
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,4,2026-04-01,176,65.5,62.5,35.5
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,5,2026-05-01,168,95.0,95.0,56.5
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,6,2026-06-01,176,112.5,112.5,63.9
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,7,2026-07-01,184,117.5,115.5,62.8
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,8,2026-08-01,168,83.5,62.0,36.9
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,9,2026-09-01,176,92.0,87.0,49.4
+E058,Anjali Reddy,Risk Advisory,Mumbai,2026,10,2026-10-01,176,87.0,80.0,45.5
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,1,2025-01-01,184,0,0,0.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,2,2025-02-01,160,0,0,0.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,3,2025-03-01,168,14.0,14.0,8.3
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,4,2025-04-01,176,48.5,40.5,23.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,5,2025-05-01,176,54.0,54.0,30.7
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,6,2025-06-01,168,58.0,50.0,29.8
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,7,2025-07-01,184,92.5,92.5,50.3
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,8,2025-08-01,168,113.5,105.0,62.5
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,9,2025-09-01,176,131.5,127.0,72.2
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,10,2025-10-01,184,59.0,48.0,26.1
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,11,2025-11-01,160,0,0,0.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2025,12,2025-12-01,184,0,0,0.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,1,2026-01-01,176,48.0,48.0,27.3
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,2,2026-02-01,160,84.0,78.0,48.8
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,3,2026-03-01,176,50.0,44.0,25.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,4,2026-04-01,176,119.0,111.0,63.1
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,5,2026-05-01,168,97.0,84.0,50.0
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,6,2026-06-01,176,138.5,134.5,76.4
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,7,2026-07-01,184,159.5,153.5,83.4
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,8,2026-08-01,168,132.5,128.0,76.2
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,9,2026-09-01,176,146.5,134.0,76.1
+E059,Vamsi Rao,Risk Advisory,Mumbai,2026,10,2026-10-01,176,108.5,97.5,55.4
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,1,2025-01-01,184,12.0,12.0,6.5
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,2,2025-02-01,160,80.0,75.0,46.9
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,3,2025-03-01,168,103.5,95.5,56.8
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,4,2025-04-01,176,105.5,94.0,53.4
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,5,2025-05-01,176,97.5,91.5,52.0
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,6,2025-06-01,168,115.5,106.5,63.4
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,7,2025-07-01,184,83.5,75.5,41.0
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,8,2025-08-01,168,55.0,55.0,32.7
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,9,2025-09-01,176,75.0,69.0,39.2
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,10,2025-10-01,184,83.0,68.5,37.2
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,11,2025-11-01,160,54.5,48.5,30.3
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2025,12,2025-12-01,184,37.0,37.0,20.1
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,1,2026-01-01,176,78.0,76.0,43.2
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,2,2026-02-01,160,97.5,78.0,48.8
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,3,2026-03-01,176,115.5,99.0,56.3
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,4,2026-04-01,176,116.0,108.0,61.4
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,5,2026-05-01,168,64.5,58.5,34.8
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,6,2026-06-01,176,137.5,112.0,63.6
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,7,2026-07-01,184,160.5,151.5,82.3
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,8,2026-08-01,168,161.5,144.5,86.0
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,9,2026-09-01,176,146.5,133.5,75.9
+E060,Anjali Naidu,Data & Analytics,Bengaluru,2026,10,2026-10-01,176,136.0,128.5,73.0

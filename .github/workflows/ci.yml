@@ -1,0 +1,22 @@
+name: pipeline
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run the pipeline (fails on any critical data-quality check)
+        run: python run_pipeline.py
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Keep the reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: reports
+          path: |
+            output/dq_report.md
+            output/business_summary.md
+            output/run_summary.json
